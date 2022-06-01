@@ -1,0 +1,63 @@
+MATH chaper 2 year 3: similarity
+
+2.1
+    in a ratio table cross products are equal
+    2 | 5
+    ------    2*25=50 | 10*5=50 | x=2 (10*5)/25
+    10| 25   
+
+    in a ratio table with multiple colums every cross needs to satisfy theory 1
+    e.g.
+    10|16|18    colums 1 and 2 need to satisfy theory 1  10*24=16*15
+    --------    colums 2 and 3 need to satisfy theory 1  16*27=24*18
+    15|24|27    colums 1 and 3 need to satisfy theory 1  15*18=10*27
+               
+    when two lines radiate from a central point this is know as central projection
+    when paralel lines are drawn between the two lines you can assume that there is a ratio
+    between the space between the top points of two lines and the space between the bottom 
+    two points of the same lines: assume two non-paralel lines are present, assume point a, 
+    point b and point c are on one line and point A, point B and point C are on the other assume that A is further from the 
+    central point than point B and that a is closer than point b etc. the ratio tabel is as follows
+    AB|BC
+    -----
+    ab|bc
+
+2.2
+    in ratioed triangles all angels are the same and all side have the same scale factor
+
+    assume there are 3 lines 2 of these are paralel the other intersecst both
+    in a Z shape the two acute angels are the same degrees
+    in a F shape one angel on the inside of the shape is the same as one on the outside
+    -->---    ----->-----
+ /      o/       |o
+ /      /        |
+ /     /         |
+ /    /          |
+ /   /           |
+ /  /o           |
+ /  -->---    ------>-----
+ /               |o
+ /               |
+    
+2.3
+    /
+
+2.4
+    the angels in a triangle add to 180 degrees
+
+    CRITERIA FOR SIMILARITY
+        1. (AA)  2 angels that are the same in the other triangle 
+        2. (SSS) every side has the same scale factor in relation with the other triangle
+        3. (SAS) 1 angel that lines up and the two side that meet there have the same scale factor
+        4. (SSR) 1 right angel in both triangles and equal scale factor on the hypotonuese and one of the legs
+    S=side
+    A=angel
+    R=right angel
+
+2.5
+    a midsegment is a segment of a line that goes from the middel of one side of a triangle to the middel of another side of the triangle
+
+    a median is a segment of a line that goes from the middel of one side of a triangle to a corner of the same triangle
+
+    when the two medians of AQ and BR intersect at point G RG:CG=1:2
+}
