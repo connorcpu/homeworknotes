@@ -23,6 +23,7 @@ MATH chaper 2 year 3: similarity
     ab|bc
 
 2.2
+
     in ratioed triangles all angels are the same and all side have the same scale factor
 
     assume there are 3 lines 2 of these are paralel the other intersecst both
