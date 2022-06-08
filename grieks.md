@@ -90,7 +90,7 @@ Werkwoord
 
 ## voor de toets
 
-    - vertaling met woordenlijst;
-    - determineren van werkwoordsvormen, met speciale aandacht voor het medium en daoristus;
-    - enkele zinnen met αὐτος;
-    - enkele zinnen met het medium en de a.c.i.;
+- vertaling met woordenlijst;
+- determineren van werkwoordsvormen, met speciale aandacht voor het medium en de aoristus;
+- enkele zinnen met αὐτος;
+- enkele zinnen met het medium en de a.c.i.;
