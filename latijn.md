@@ -1,18 +1,18 @@
 zelfstandig naamwoord
 
-|    | gr. 1 |    gr. 2   | gr. 3
-|----|-------|------------|------
-|nom | a     | us    um   | -   -
-|gen | ae    | i     i    | is  is
-|dat | ae    | o     o    | i   i
-|acc | am    | um    um   | em  -
-|abl | a     | o     o    | e   e
-|MV  |       |            |
-|nom | ae    | i     a    | es   a
-|gen | arunt | orunt orunt| um   um
-|dat | is    | is    is   | ibus ibus
-|acc | as    | os    a    | es   a
-|abl | is    | is    is   | ibus ibus
+|    | gr. 1 |gr. 2  | gr. 2 | gr. 3| gr. 3
+|----|-------|-------|-------|------|------|
+|nom | a     | us    | um    | -    | -
+|gen | ae    | i     | i     | is   | is
+|dat | ae    | o     | o     | i    | i
+|acc | am    | um    | um    | em   | -
+|abl | a     | o     | o     | e    | e
+|MV  |       |       |       |      |
+|nom | ae    | i     | a     | es   | a
+|gen | arunt | orunt | orunt | um   | um
+|dat | is    | is    | is    | ibus | ibus
+|acc | as    | os    | a     | es   | a
+|abl | is    | is    | is    | ibus | ibus
 
 
 ## vraagwoorden
