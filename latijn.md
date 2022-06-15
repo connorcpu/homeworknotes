@@ -119,7 +119,7 @@ een accusativus heeft een van deze
        * os
        * A
        * es
-       
+
 ## bijvoegelijk naamwoord
 ### GROEP 1/2
 |EV |mnl|vrl|onz| 
@@ -151,7 +151,7 @@ een accusativus heeft een van deze
 |dat | ibus | ibus |
 |acc | es   | ia   |
 |abl | ibus | ibus |
-## leren voor de toets
+## leren voor de toets (16-6-2022)
 - vertaling;
 - het determineren van werkwoordsvormen;
 - het bijvoeglijk naamwoord bij het zelfstandig naamwoord; de aandacht gaat natuurlijk uit naar het bijvoeglijk naamwoord groep 3;
