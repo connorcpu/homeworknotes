@@ -2,14 +2,6 @@
 
 ## zelfstandig naamwoord
 
-|    | mnl | vrl | onz |
-|----|-----|-----|-----|
-|nom |     |     |     |
-|gen |     |     |     |
-|dat |     |     |     | 
-|acc |     |     |     |
-
-
 | EV  | Mnl       | Vrl           | onz        | uitzonderingen      |
 |-----|-----------|---------------|------------|---------------------|
 | nom.|	ὁ 	- ος  | ἡ	- η / α	  |	το	- ον   |                     |
@@ -61,32 +53,32 @@
 
 Werkwoord 
 
-| -ivus       | 1       | 2                     | 3      | 4                     |
-|-------------|---------|-----------------------|--------|-----------------------|
-| Praesens:   |	stam + uitgang	   |            |        |                       |		
-| Imperfectum:|	ε + stam + uitgang |            |        |                       | 
-|             | Actief:	| Medium: (athematisch)	|Actief: |	Medium: (athematisch)|
-| Indicativus | - ω	    | - μαι		            | - ον	 | - μην                 | 
-|             | - εις 	| - σαι (ει)            | - ες	 | - σο (ου)             |
-|             | - ει	| - ται		            | - ε(ν) | - το                  |
-|             | - ομεν	| - μεθα	            | - ομεν | - μεθα                |   
-|             | - ετε 	| - σθε		            | - ετε  | - σθε                 |
-|             | - ουσιν | - νται	            | - ον   | - ντο                 |
-| Imperativus |	- ε     | - σο (ου)             |        |                       |
-|             | - ετε	| - σθε                 |        |                       |
-| Infinitivus | - ειν   | - σθαι                |        |                       |
-| Aoristus:   |	ε+stam+σ+uitgang (α/ε- ww wordt een η) |  |  |                   |
-|**verleden tijd**| Sigmatisch|                 |        |                       |
-|             | Actief: | Medium:               |        | vertalen met ‘hebben’ |
-| Indicativus |	- σα	| - σαμην	            |        |                       |
-|             | - σας	| - σω	                |	     |                       |
-|             | - σε(ν)	| - σατο                |		 |                       |
-|             | - σαμεν | - σαμεθα	            |        |                       |
-|             | - σατε	| - σασθε	            |        |                       |
-|             | - σαν	| - σαντο	            |        |                       |
-| Imperativus |	- σον   | - σαι                 |        |                       |
-|             | - σατε  | - σασθε	            |        |                       | 
-| Infinitivus |	- σαι   | - σασθαι              |        |                       |	 
+| -ivus        | 1         | 2                      | 3      | 4                     |
+|--------------|-----------|------------------------|--------|-----------------------|
+| Praesens:    | stam + uitgang |                   |        |                       |		
+| Imperfectum: | ε + stam + uitgang |               |        |                       | 
+|              | Actief:   | Medium: (athematisch)	|Actief: |	Medium: (athematisch)|
+| Indicativus  | - ω	   | - μαι		            | - ον	 | - μην                 | 
+|              | - εις 	   | - σαι (ει)             | - ες	 | - σο (ου)             |
+|              | - ει	   | - ται		            | - ε(ν) | - το                  |
+|              | - ομεν	   | - μεθα	                | - ομεν | - μεθα                |   
+|              | - ετε 	   | - σθε		            | - ετε  | - σθε                 |
+|              | - ουσιν   | - νται	                | - ον   | - ντο                 |
+| Imperativus  | - ε       | - σο (ου)              |        |                       |
+|              | - ετε	   | - σθε                  |        |                       |
+| Infinitivus  | - ειν     | - σθαι                 |        |                       |
+| Aoristus:    | ε+stam+σ+uitgang (α/ε- ww wordt een η) |  | |                       |
+|**verleden tijd**| Sigmatisch|                     |        |                       |
+|              | Actief:   | Medium:                |        | vertalen met ‘hebben’ |
+| Indicativus  | - σα	   | - σαμην	            |        |                       |
+|              | - σας	   | - σω	                |	     |                       |
+|              | - σε(ν)   | - σατο                 |		 |                       |
+|              | - σαμεν   | - σαμεθα	            |        |                       |
+|              | - σατε	   | - σασθε	            |        |                       |
+|              | - σαν	   | - σαντο	            |        |                       |
+| Imperativus  | - σον     | - σαι                  |        |                       |
+|              | - σατε    | - σασθε	            |        |                       | 
+| Infinitivus  | - σαι     | - σασθαι               |        |                       |	 
 
 ## voor de toets
 
