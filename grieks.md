@@ -15,9 +15,6 @@
 | acc.|	τούς - ους|	τάς	- ας      | τά	- α	   |                     |
 
 ## Gemengde groep  
-
- 
-
 ## Zelfstandig naamwoord	 
 
  
