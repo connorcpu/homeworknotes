@@ -8,7 +8,7 @@
 ### delend lidwoord
 # NEEDS ATTENSION
 
-### hocus pokus
+## hocus pokus
 
 'a = [in, van, maar, op, aan]
 'a + le = au
@@ -22,7 +22,7 @@ de + la = de la
 de + 'l = de 'l
 de + les = des
 
-### persoonlelijk voornaam woord als leiden voor werp
+## persoonlelijk voornaam woord als lijdedvoorwerp
 ## IN PROGRESS 
 als het een persoon is 
 |pers  |vmw |
@@ -105,7 +105,7 @@ alleen frans -> nederlands / -> rangtelwoord\
 |100|cent
 |1000|mille
 
-### kloktijden 
+## kloktijden 
 je zegt het uur plus op min een aantal minuten en je gebruikt il est inplaats van het is
 | franse zin                          | nederlandse zin      |digi |
 |-------------------------------------|----------------------|-----|
@@ -118,7 +118,7 @@ je zegt het uur plus op min een aantal minuten en je gebruikt il est inplaats va
 |Il est minuit                        | het is twaalfuur 's nachts |
 |Il est midi et demi                  | Het is half een      |
 
-### rang tel woorden
+## rangtelwoorden
 hooftelwoord + i`eme
 |uitzonderingen|
 |-|
@@ -127,3 +127,22 @@ hooftelwoord + i`eme
 |cinq -> cinq**U**ième
 |neuf -> neu**V**ième
 |vingt et unième (= eenentwintigste)
+
+## ontkenning
+de persoonsvorm moet op de puntjes
+
+|                  |                      |
+|------------------|----------------------|
+|ne...pas          | niet/ geen           |
+|nu...plus         | niet meer            |
+|ne...rien         | niets*               |
+|ne...jamais       | nooit                |
+|ne...pas encore   | nog niet             |
+|ne...pas non plus | ook niet             |
+|ne...aucun(e)     | geen enkel           |
+|ne...guère        | nauwelijks           |
+|ne...personne     | niemand*             |
+|ne...nulle part   | nergens              |
+|ne...ni...ni...   | noch ... noch...     |
+|ne...que          | slechts / alleen maar|
+|ne...pas du tout  | helemaal niet        |
