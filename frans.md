@@ -112,4 +112,18 @@ je zegt het uur plus op min een aantal minuten en je gebruikt il est inplaats va
 |il est DEUX heures                   | het is twee uur      | 2:00|
 |il est DEUX heures cinq              | het is 5 over 2      | 2:05|
 |il est DEUX heures vingt-cinq        | het is 5 voor half 3 | 2:25|
-|il est TROIS heures moins vingt-cinq | het is 5 over half 3 | 3:35|
+|il est TROIS heures MOINS vingt-cinq | het is 5 over half 3 | 3:35|
+|Il est une heure                     | Het is een uur       |
+|Il est midi                          | Het is twaalf uur 's middags |
+|Il est minuit                        | het is twaalfuur 's nachts |
+|Il est midi et demi                  | Het is half een      |
+
+### rang tel woorden
+hooftelwoord + i`eme
+|uitzonderingen|
+|-|
+|un, une -> **premier**, **première**
+|quatr**E** -> quatrième
+|cinq -> cinq**U**ième
+|neuf -> neu**V**ième
+|vingt et unième (= eenentwintigste)
