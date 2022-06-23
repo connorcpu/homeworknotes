@@ -72,6 +72,16 @@ als het een persoon is
 |zij (m) |ils  |les    |leur   |eux  |
 |zij (v) |elles|les    |leur   |elles|
 
+## bezitelijk voornaamwoord
+||mannelijk (of vrouwelijk klinker/h)| vrouwelijk| meervoud|
+|-|-|-|-|
+|mijn |mon |ma |mes|
+|jouw |ton| ta| tes|
+|zijn/haar |son |sa |ses
+|ons/onze |notre| notre |nos|
+|jullie/uw |votre| votre |vos|
+|hun| leur| leur |leurs|
+
 ## cijfers
 alleen frans -> nederlands / -> rangtelwoord\
 
@@ -146,3 +156,54 @@ de persoonsvorm moet op de puntjes
 |ne...ni...ni...   | noch ... noch...     |
 |ne...que          | slechts / alleen maar|
 |ne...pas du tout  | helemaal niet        |
+
+## bijvoegelelijk naamwoord
+
+|  | m | v |
+|--|---|---|
+|EV|   | e |
+|MV| s | es|
+
+het bijv naamwoord staat ACHTER het zelfstandig naamwoord TENZIJ het een van deze is
+bon\
+mauvais\ 
+joli\
+haut \
+grand \
+petit\
+jeune \
+vieux \
+nouveau\
+gros \
+long \
+beau
+
+### bijwoorden
+base = bijvNwMale
+if(base.endsWith("ent")){
+base.replace1With2("ent", "emment")
+}else if(base.endsWith("ant")){
+base.replace1With2("ant", "amment")
+}else if(base.endsWith(klinker)){
+base.append("ment");
+}else if(base.endsWith(medeklinker)){
+base.makeTrans(female);
+base.append("ment");
+}
+
+-ent -> +emment\
+-ant -> +amment\
+-KLINKER -> +ment\
+-MEDEKLINKER -> make female +ment
+
+## vergelijking
+
+WOORD + bijvoegelijk naamwoord + que
+
+| | |
+|-|-|
+|moins|minder
+|aussi|even
+|plus|meer
+
+E.G.: L'hotel est AUSSI grand QUE
