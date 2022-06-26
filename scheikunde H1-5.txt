@@ -3,6 +3,12 @@ general basics
  in jaar 3 bekeken en houden 2, 8 en 18 electonen
  |K |L |M |
  |2 |8 |8 |
+ 
+ een metaalatoom kan een atoom afstaan en positief geladen worden
+ een niet-metaalatoom kan een atoom opnemen en negatief geladen worden
+
+ een metaal kan verschilende ionen hebben aangegeven door een romeins cijfer in de notatie
+ en dus is een atoom met eer romeins cijfer erbij altijd positief en een metaak
 
 5.1
 voor geleiden
@@ -106,4 +112,8 @@ hoe hoger het smeltpunt hoe sterker de binding
  door te kijken naar hoeveel atomen er aan de rechter kant staan tot je bij een edelgas
  uitkomt E.G. C (koolstof) heeft atoom numer 6 rechts van C staat Ne (neon), het atoom direct
  links van Ne gaat 1 binding aan, degene links daarvan 2 e.t.c. en dus gaat C 4 bindingen aan
+ 
+5.6
+ een zout geleid waneer het is opgelost in water en dus een fase van (aq) heeft (of als het zout vloeibaar is)
+ een zoutmolecuul heet een zoutdeetje en mag niet een molucuul genoemd worden
  
