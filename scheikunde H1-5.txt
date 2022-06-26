@@ -1,3 +1,9 @@
+general basics
+ de atoom schillen gaan van k tot p van binnenste tot buitenste maar aleen K, L en M worden 
+ in jaar 3 bekeken en houden 2, 8 en 18 electonen
+ |K |L |M |
+ |2 |8 |8 |
+
 5.1
 voor geleiden
  - de stof moet lading dragers bevatten (electonen of ionen)
@@ -45,6 +51,59 @@ hoe hoger het smeltpunt hoe sterker de binding
 |smeltpunt                 |hoog            |laag                         |hoog
 
 5.2 
-een edelmetaal is een metaal wat niet reageert met de buiten lucht (goud, zilver, platina)
-een onedelmetaal is een metaal wat reageert met de buiten lucht (ijzer, lood, zink)
-een zeer onedelmetaal is een metaal wat niet ik aanraking kan komen met de buiten lucht (alkalimetalen groep 1 van het peridiek systeem)
+ een edelmetaal is een metaal wat niet reageert met de buiten lucht (goud, zilver, platina)
+ een onedelmetaal is een metaal wat reageert met de buiten lucht (ijzer, lood, zink)
+ een zeer onedelmetaal is een metaal wat niet ik aanraking kan komen met de buiten lucht (alkalimetalen groep 1 van het peridiek systeem)
+ alleen edelmetaalen komen voor in de natuur andere metalen komen voor als erts
+
+5.3
+ als een moluculare stof is opgelost in water noteer je dat als aq fase
+ dus glucose (C6H12O6 (s)) opgelost in water (H2O (l)) word genoteerd als C6H12O6 (aq)
+
+ ENKELVOUDIGE MOLUCULARE stoffen
+  mono-atomaire moluculare stoffen
+   edelgassen, boor, koolstof, silicium, fosfor en zwavel hebben als kleinste deeltje een atoom
+  diatomaire moluculare stoffen
+   H2, N2, O2, F2, Cl2, Br2, I2 hebben twee dezelfde atoomen om een stof te maken
+
+ bij telwoorden mag je een "mono" aan het begin weglaten
+ E.G.
+ monokoolstofmono-oxide -> CO2 & koolstofmono-oxide -> CO2
+
+5.4
+ een edelgas-configuratie is waneer de buitenste schil van een atoom volledig gevuld is 
+ dit heet zo omdat een edelgas de buitenste schil altijd vol heeft.
+
+ elk atoom wat niet een edelgas is streeft ernaar om een vole buitenste schil te hebben
+ dit kan bereikt worden door electonen op te nemen of af te staan of door een binding aan 
+ te gaan met niet-metaalen
+
+ als twee atomen een binding aan gaan dan heet dat een covalente binding of een atoom binding
+ en dat houd de atomen bij elkaar om een molucuul te vormen
+
+ de stof waterstof heeft een formule van H2 dat betkend dat er twee atomen een covalente binding
+ zijn aan gegaan om een molucuul te vormen. een waterstof atoom heeft atoomnumer 1 en dus 
+ 1 protoon en 1 elektron in de K schil om de K schil vol te maken moet er 1 elektron bij
+ en dus wil het waterstof atoom 1 binding aangaan. als twee waterstof atoomen hun schillen
+ tegenelkaar aan leggen en 1 elektron op het overlappende gebied zetten dan lijkt het alsof 
+ ze albei 2 electonen hebben en dus onstaat er een covalente binding en dus onstaat het H2
+ molucuul waar waterstof uit bestaat
+
+ de structuur-formule van H2 is H-H want er is 1 binding die weer word gegeven door de "-"
+
+ een Cl atoom heet atoom numer 17 en dus 17 protonen en 17 electonen, 2 in de K schil
+ 8 in de L schil en 7 in de M schil dus er mist 1 elektron in de buitenste schil en word
+ er 1 binding gemaakt
+ dus word er gedeeld tot het lijkt dat beide atomen 8 electonen hebben
+
+ een O-atoom heeft 6/8 electonen in de buitenste schil en gaat dus twee binding aan en dus
+ onstaat O2 met twee binding tussen de atomen met een structuur-formule van O=O2
+
+ ook verschilende atomen kunnen een binding aan gaan zo komt het Cl-atoom 1 elektron te kort
+ en het H-atoom ook 1 dus kan de stof HCl onstaan met de structuur-formule van H-Cl
+
+ bij een niet metaal is de covalentie (aantal mogelijke bindingen) makelijk te vinden
+ door te kijken naar hoeveel atomen er aan de rechter kant staan tot je bij een edelgas
+ uitkomt E.G. C (koolstof) heeft atoom numer 6 rechts van C staat Ne (neon), het atoom direct
+ links van Ne gaat 1 binding aan, degene links daarvan 2 e.t.c. en dus gaat C 4 bindingen aan
+ 
