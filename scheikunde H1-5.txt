@@ -1,0 +1,50 @@
+5.1
+voor geleiden
+ - de stof moet lading dragers bevatten (electonen of ionen)
+ - de lading dragers moeten vrij kunnen bewegen
+
+stoffen ingedeelt op geleidbaarheid
+ groep
+  1. geleid in vaste en voeibare staat  (metalen)
+  2. geleid niet (moluculare stoffen)
+  3. geleid niet in vaste vorm maar wel in voeibare vorm (zouten)
+
+metalen (groep 1)
+ een metal bestaat uit een uniek atoom type
+ omdat metalen (behalve kwik) een hoog smeltpunt hebben trekken metaalatomen elkaar sterk aan
+ alle metalen behalve kwik zijn in een vaste staat bij kamer temperatuur
+ de stroom geleiding komt doordat de metaalatomen vrije elektronen bezitten
+
+moluculare stoffen (groep 2)
+ een moluculare stof heeft geen metaalatomen
+ voor edelgassen, boor, koolstof,silicium, fosfor en zwavel is het kleinste deel een niet-metaal atoom
+ het meest voorkomend is dat het kleinste deel een molucuul is
+ laag smeltpunt
+ zwake binding (van de waals binding)
+ geen stroom geleiding
+
+zouten (groep 3)
+ zouten bestaan uit positief geladen ionen (vaak metaalionen) en negatief geladen ionen(vaak niet-metaalionen)
+ hoog smeltpunt
+ sterke binding (ion binding)
+ de ionen kunnen niet vrij bewegen in een vaste staat en geleiden daarom niet 
+ in een vloeibare staat geleid een zout wel want dan kunnen ze wel vrij bewegen
+
+
+een vanderwaalsbinding houd de molucuulen bij elkaar
+de covalente/atoombinding houd de atoomen in de molucuulen bij elkaar
+hoe hoger het smeltpunt hoe sterker de binding
+
+|                          |metaalen        |moluculare stoffen           |zouten
+|--------------------------|----------------|-----------------------------|---------------------------------------------
+|kleinste deeltjes         |metaalatomen    |molucuul(zonder metaalatomen)|ionen (positief en negatief geladen)
+|binding tussen deeltjes   |metaal binding  |vanderwaalsbinding           |ionbinding
+|binding in deeltjes       |       -        |covalente/atoombinding       | -
+|stroom geleiding          |beide           |nee                          |vast:nee, vloeibaar: ja, aq:ja
+|reden van stroom geleiding|vrije elektronen|niet van toepassing          |vrije ionen in vloeibare staat
+|smeltpunt                 |hoog            |laag                         |hoog
+
+5.2 
+een edelmetaal is een metaal wat niet reageert met de buiten lucht (goud, zilver, platina)
+een onedelmetaal is een metaal wat reageert met de buiten lucht (ijzer, lood, zink)
+een zeer onedelmetaal is een metaal wat niet ik aanraking kan komen met de buiten lucht (alkalimetalen groep 1 van het peridiek systeem)
