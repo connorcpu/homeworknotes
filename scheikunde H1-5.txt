@@ -8,7 +8,7 @@ general basics
  een niet-metaalatoom kan een atoom opnemen en negatief geladen worden
 
  een metaal kan verschilende ionen hebben aangegeven door een romeins cijfer in de notatie
- en dus is een atoom met eer romeins cijfer erbij altijd positief en een metaak
+ en dus is een atoom met eer romeins cijfer erbij altijd positief en een metaal
 
 5.1
 voor geleiden
@@ -116,4 +116,23 @@ hoe hoger het smeltpunt hoe sterker de binding
 5.6
  een zout geleid waneer het is opgelost in water en dus een fase van (aq) heeft (of als het zout vloeibaar is)
  een zoutmolecuul heet een zoutdeetje en mag niet een molucuul genoemd worden
+ een zout deeltje heeft een rationenle naam van de atoom soorten achter elkaar (geen grieks telwoorden)
+ als er bij het metaal ion geen romeins cijfer staat moet de lading worden afgeleid uit het negative ion
+ E.G. Fe2S3 een sulfide-ion heeft een lading van 2- en er zijn er 3 dus een lading van 6-
+ bij het sulfide en dus een lading van 6+ bij het ijzer er zijn 2 ijzer deeltjes dus 3+ 
+ dus "ijzer(III)sulfide"
+
+ een zout is altijd een vaste stof
+
+ een verhoudings-formule / een zout-formule geeft de verhouding tussen de ionen in een zout weer
+ hoe maak je een verhoudings-formule
+ 1. schrijf de formules van de ionen op, eerst de positiefe daarna de negative
+    E.G.  Fe^3+  S^2-
+ 2. zet de benodige verhouding er onder om een ongeladen deeltje te maken
+    E.G. 2 : 3
+ 3. ver klein de verhouding
+    E.G. 4 : 6 -> 2 : 3
+ 4. noteer de verhoudings formule
+    E.G. Fe2S3 (s)
+
  

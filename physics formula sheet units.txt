@@ -1,0 +1,36 @@
+law of coulomb -> F = K*(Q1*Q2)/R^2  
+F = atraction force (Newton)  (N)
+K = constant 8,99*10^9
+Q = lading          (coulomb) (C)
+R = distance        (meter)   (M)
+
+electric potential -> U = E / Q
+U = spanning     (Volt)    (V)
+E = energie diff (Joule)   (J)
+Q = lading         (coulomb) (C)
+
+current -> I = Q / T
+I = current (Ampere)  (A) 
+Q = lading  (coulomb) (C)
+t = time    (seconds) (S)
+
+resistance -> R = U / I
+R = resistance (ohm)    (Ω)
+U = potential  (Volt)   (V)
+I = current    (Ampere) (A)
+
+resistance in a wire -> R = (p*l)/A
+R = resistance        (ohm)   (Ω)
+p = meterial constant 
+l = lengh             (meter) (M)
+A = area              (vierkante meter) (M^2)
+
+power -> P = U * I
+P = power     (watt)   (W)
+U = potential (volt)   (V)
+I = current   (Ampere) (A)
+
+energy -> E = P * T
+E = energy   (kilowattuur) (kWh)
+P = vermogen (kilowatt)    (kW)
+T = time     (uur)         (h)
