@@ -1,0 +1,58 @@
+.TL NLT project 2: CSI
+.AU Connor Spruit & Filip Pelka
+.AI het Groen van Prinsterer Lyceum Vlaardingen
+
+.NH Papier chromatografie
+   stift 2 of stift 4
+   Dhr. beek of Mw Hoying
+   gegeven waren 5 stiften gelabeld 1 tot-en-met 5. Elke stift behoort aan een verdachte toe
+   er is ook een rond stuk papier met de text CSI die gevonden is op de plaat delict.
+   met behulp van vloeibaar methanol word er gebruik gemaakt van chromatografie, door stippen te zetten op een 
+   horizontale lijn en het papier in het methanol te dopen maar de stippen niet nat te maken.
+   hierdoor absorbeert het papier het methanol en gaan de stiften lopen
+   stift 2 en stift 4 lopen allebei geel uit maar de rest in een andere kleur.
+   door vloeibaar methanol met een pipet op het ronde stuk papier te druppelen zal de inkt ook daar uitlopen
+   het stuk papier met CSI liep geel uit, dus er kan geconcludeerd worden dat de dader Dhr. van beek is 
+   of Mvr. Hoying omdat stift 2 en stift 4 van hun waren.
+bloed
+   voor dit proefje worden er voor elke verdachte drie druppels bloed op een glasje gelegt, om te concluderen wie de dader is word eerst de bloedgroep bepaald
+   met behulp van anti-a, anti-B en anti-RH stoffen. als bloed klontered nadat het in aanraking komt met anti-A is het bloedgroep A, als het klontered na
+   aanraking met anti-B is het bloedgroep B.
+   als het klontered met beide is het bloedgroep AB.
+   als het klontered met anti-Rh is de bloedgroep posifief en anders negatief.
+   voor iedere druppel bloed van iedere monster worden de drie anti stoffen op een eigen druppel gedruppeld. 
+   nadat iedere stof getest is hebben we kunnen concluderen dat het gevonden bloed van bloedgroep B Rh- is 
+   omdat het bloed niet met anti-A of met anti-Rh reageerde maar wel met anti-B en dus is dit bloed van Dhr. Bongers.
+
+   voor elk bloed word getest of het met anti-A, anti-B of anti-Rh reageert
+   reageert met:
+      anti-A -> bloedgroep A
+      anti-B -> bloedgroep B
+      anti-A & anti-B -> bloedgroep AB
+      anti-Rh -> bloed is posifief
+   resultaat:
+      de gevonden stof reageerde met Anti-B maar niet met anti-A en ook niet met anti-Rh dus het gevonden bloed is bloedgroep B Rh-
+   Dhr. Bongers
+
+stof
+   gegeven zijn 5 reageer buizen met verschillende type witte poeders.
+   uit elke buiz word een deel van de stof gehaald en die word in een buis met water gemengt om de oplosbaar heid te testen.
+   stoffen 1, 2, 3 en 5 lossen op in het water net zoals de gevonden stof. stof 4 loste niet op in het water.
+   vervolgens werden de stoffen getest voor hun PH-waarde door PH-teststrips in de oplossingen te doen.
+   hieruit bleek dat stof 1 en 2 een PH waarde van 7 hadden, stof 3 een waarde van 12, stof 4 een waarde van 8 tot 9 en stof 5 had een PH-waarde van 7 tot 8.
+   hieruit blijkt dat de gevonden stof stof 3 is wat overeenkomt met Dhr. beek.
+   stof 1, 2, 3, 5 lossen op in water
+   stof 4 lost niet op in water 
+   PH:
+      #1: 7
+      #2: 7
+      #3: 12
+      #4: 8/9
+      #5: 7/8
+      gevonden stof: 12
+   de gevonden stof bestaat uit witte bolletje net zoals stof 3
+   stof 3
+   Dhr. beek
+   
+vingerafdruk
+

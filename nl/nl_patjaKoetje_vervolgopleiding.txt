@@ -1,0 +1,81 @@
+Computer science and engineering
+   tudelft.nl/onderwijs/opleidingen/bachelors/cse/bsc-computer-science-and-engineering/onderwijsprogramma
+   
+
+1. Naam opleiding
+   Technische universiteit delft, Computer science and engineering
+
+2. Toelatingseisen
+   numerus fixus, wiskunde B op vwo 6 niveau maar elke profiel
+   7 of hoger voor wis B is geadviseerd
+
+3. Wat houdt de opleiding in
+   computers
+   hoe computers werken
+   programmeren
+   hoe je efficiënt programmeert
+
+4. Hoe ziet het eerste jaar eruit
+   programmeren in java
+   wiskunde: calculus en lineaire algebra
+   systemen: netwerken en organisatie
+   modellen: boolean logica, algoritmes en data structuren
+
+5. Hoe ziet het tweede jaar eruit
+   Computer graphics
+   algoritme ontwerp computability en complexiteit
+   software engineering
+   software project
+   3 varianten 
+
+6. Hoe ziet het derde jaar eruit
+   minor voor een half jaar aan TU delft zelf of andere universiteit ook in het buitenland
+   research project
+
+7. Welke minoren kan je volgen
+   bijvoorbeeld een gerelateerd onderwerp zoals electrical engineering wat in partnership word gegeven.
+   Andere studie aan de TU delft
+   andere universiteit ook in het buitenland, er zijn partner universiteiten over de hele wereld
+
+8. welke opties zijn er voor studie in het buitenland
+   Alleen die minor
+
+9. hoe scoort de studie voor tevredenheid
+   de studie scoort iets boven gemiddeld maar niet veel
+
+10. wat kun je na de opleiding gaan doen
+   master
+   werken
+      2729 gemiddelde bruto maandloon
+      83% kans op vaste baan
+
+11. beroepen
+   software engineer
+   software developer
+   data scientist
+   security analist
+   graphics specialist
+   systeemanalist
+   innovatie- of prjectmanager
+   consultent in het binnen- of buitenland
+
+12. bindend studieadvies / studiekeuzecheck of decentrale selectie
+   bse is 3/4 van de studiepunten, oftewel 45 EC
+   daarna 4 jaar lang niet voor dezelfde opleiding inschrijven
+   100% decentrale selectie, bijvoorbeeld een toets om je te ranken en te bepalen of jij binnen de nummerus fixes valt
+
+13. nummerus fixes
+   3 toesten
+      leerwerk is het hele vwo
+      leerwerk is 1 opgestuurd boekje
+      geen leerwerk
+   ranking
+
+14. campus
+   lange strook met park in het midden, fiets paden er omheen
+   autovrij
+   gebouwen langs de kant
+
+15. de blibiotheek
+   noord-oost hoek, aparte argitechtuur, gras boven op, werkplekken aan de binnenkant, glazen wanden.
+

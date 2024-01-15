@@ -1,0 +1,25 @@
+protheses
+   pasieve
+      cosmetic
+         geen bewegende onderdelen. denk aan houten been, en extensies van bijvoordbeel je duim of been (voet tot onder de knie)
+      passive
+         bewegende onderdelen, word met de anderehand bestuurd om vast te klemmen
+      tools
+         denk capitijn haak maar dan met verwisselbaar gereedschap
+   actieve
+      body-power
+         vaak via een schouder bandage die beweging in de schouders omzet in beweging van de prothese
+      external power 
+         een signiaal word gedecteerd in de arm en daar word een moter mee aangestuurd
+
+
+
+statica = geen resulteerende kracht
+          geen resulteerend moment
+
+   sommige dingen, zoals bijvoordbeeld autos kunnen worden versimpeld met een punt-massa om de krachten uit te rekenen maar dit werkt niet voor de momenten
+
+   Fw (frictie weerstand) is afhankelijk van de normaal kracht
+
+F_B - F_A - G
+F_A * r - G * 2 * r

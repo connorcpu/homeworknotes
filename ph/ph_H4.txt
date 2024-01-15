@@ -1,0 +1,20 @@
+zwaartekracht
+   F=MxG
+   F->force[N]
+   m->massa[kg]
+   g->9.81[N/kg]
+   wanneer een kracht word uitgeoefend op een voorwerp geld
+   g->a[m/s]
+veerkracht
+   F=CxU
+   f->force[N]
+   C->veerconstante[N/(cm|m)]
+   u->uitrekking[cm|m]
+
+een eenparige beweging komt alleen voor als de resulterende kracht != 0
+
+luchtweerstand
+   F=KxV^2
+   F->force[N]
+   K->luchtweerstandconstante
+   V->velocity[m/s]

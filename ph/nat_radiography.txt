@@ -1,0 +1,56 @@
+I = J/(s*m^2)
+
+I = I sub 0 times (1/2)^n
+   I: intensiteit na het materiaal
+   I sub0: begin intensiteit
+   n: aantal lagen (dikte / halverings dikte)
+
+I = I sub 0 times (1/2)^d/d sub 1/2
+
+#energie foton
+E sub f = h times f 
+   E = energie in jool van foton
+   h = constante van planck (6,626 * 10^-34 J*s
+   f = frequentie in Hz
+
+f = c / labda
+   f = frequentie in Hz
+   c = lichtsnelheid constante
+   labda = golflengte in meter
+
+#1 eV = 1,6 *10^-19J
+#1 keV = 1*10^3eV
+#1 MeV = 1*10^6eV
+
+#alfa = 2p + 2n; 4-2 alfa; 4-2 He
+#beta = 1e
+gamma = foton
+
+het aantal instabiele kernen dat vervalt per seconden is activiteit (A) gemeten in becquerel (Bq)
+1Bq is 1 kern per seconden
+
+#halverings tijd
+A = A sub 0 times (1/2)^n
+   A = activiteit 
+   A sub 0 = begin activiteit
+   n = aantal halverings tijden (T/t sub 1/2)
+   
+#BETA straling triggert neutron split
+131-53 l -> 131-54 Xe + 0--1 beta
+
+tabel 25,7,8
+
+#stralings absorbsie
+D in Gy stralingsenergie per kilogram
+H in Sv mogelijke effect van straling
+
+D = E sub str / m
+   E sub str = geabsorbeerde stralingsenergie in J
+   m = massa
+
+H = wr * D
+   wr = stralings factor 
+   a-20
+   b-1
+   y-1
+   roten-1

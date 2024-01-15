@@ -1,0 +1,104 @@
+1. naam opleiding
+   hallo
+   gekozen studie
+   TU delf
+   waarom niet leiden
+      meer info beschikbaar
+
+2. toelatingseisen
+   niet iedereen
+   wis B, 7 of hoger
+   elk profiel
+   numerus fixes
+
+3. wat houdt de opleiding in
+   niet alleen programeren
+   voornamelijk ontwerpen van systemen
+   algorithme
+   AI
+   security
+   opslaan, verplaatsen en verwerken van data
+
+4. eerste jaar
+   programeren in java
+   veel wiskunde
+   voornamelijk introductie 
+   diepe wiskunde
+
+5. tweede jaar
+   minder wiskunde
+   meer programeren
+   klein beetje algorithmes 
+   variant courses
+      multimedia
+      systems
+      data
+
+6. derde jaar
+   minor
+   elective, specalizeren
+      cyber security
+      economics
+      management
+      game disign
+
+7. miroren
+   aan de TU delft
+   aan een andere universiteit
+   electrical engieering
+   buitenland
+
+8. buitenland
+   link naar vorige slide
+   partner universiteiten overal
+   ook losse universiteiten (freemover) maar wel betalen
+   begin een jaar van te voren
+   er is hulp
+
+9. tevredenheid
+   lees de slide voor
+
+10. na je opleiding
+   refereer naar slide 3 over dat je meer dan alleen programeren doet
+   gunstige arbeits markt
+      2.7K gemiddelde bruto maandloon
+      83% kans op vaste baan
+   master 2 jaar
+      specalizeren
+         data science
+         harware
+
+11. beroepen
+   refereer naar slide 10 en 3
+   software engineer
+   software developer
+   data scientist
+   security analist
+   graphics specilist
+   consultant
+
+12. bindend studieadvies
+   3/4 -> 45 EC
+   haal je dit niet mag je 4 jaar lang niet deze specefieke opleiding doen aan de TU delft
+
+13. nummerus fixes
+   3 toetsen
+      leerwerk hele vwo, voornamelijk wiskunde
+      leerwerk 1 opgestuurd boekje
+      leerwerk niks: inzicht
+   ranking
+
+14. campus
+   autovrij, dat was niet altijd zo
+   autoweg vervangen met park + fietspaden
+   gebouwen aan de zijkant
+
+15. blibiotheek
+   wou nog even de blibiotheek bespreken
+   aparte architectuur
+   grassveld bovenop
+   boeken die kunnen helpen
+   rustige werkplekken
+
+
+   

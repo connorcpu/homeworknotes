@@ -1,0 +1,30 @@
+Hydrofoob of hydrophile:
+
+   Een stof is hydrophoob als het een apolaire binding heeft (een van de atomen trekt meer aan het atomen paar)(electronegatieviteit binas)
+   Een stof kan mengen met water als het water stof bruggen kan vormen
+      benodigd:
+         - H atoom met delta+ lading
+         - atoom met delta- lading en ongebonden electonen-paar
+
+      hint:
+         C-H -> C^delta- + H^delta+
+         O-H -> O^delta- + H^delta+
+         C-O -> O^delta- + C^delta+ (benoem nooit de C-O binding voor H-brug)
+         apolair als de delta tussen de electronegatieviteit groter is dat 0.7
+
+Esters:
+   benodigd:
+      - alcohol (-OH)
+      - carbonzuur (-COOH)
+
+      1. bij een van de moleculen valt de OH groep weg
+      2. bij de ander valt de H weg
+      3. de OH en H vormen H2O
+
+Aminozuren:
+   aminozuren ver-esteren   
+
+Systematische naamgeving:
+
+
+

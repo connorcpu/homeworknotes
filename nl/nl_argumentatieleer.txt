@@ -1,0 +1,92 @@
+argumentatieschema's
+   oorzaak-gevolg
+      zijn vader is onlangs overleden (oorzaak + argument). daardoor is voor hem op dit moment zijn examen van minder belang (gevolg + standpunt)
+   kenmerk of eigenschap
+      wanneer ieder lid van een groep een eigenschap vertoont
+      russische leiders kunnen niet goed omgaan met kritiek (argument). dus poetin ook niet (standpunt)
+   voor- en nadelen
+      voordelen worden afgewogen tegen nadelen 
+   voorbeelden
+      je kan niet op hem rekenen (standpunt), want gisteren was hij ook te laat (argument)
+   vergelijking
+      een vorige situatie liep op een bepaalde manier af. dus de nieuwe, vergelijkbare situatie zal vast hetzelfde aflopen.
+   autoriteit
+      op basis van uitspraak van een deskundige
+
+argumentatiestructuren
+   enkelvoudige argumentatie
+      een argument
+   nevenschikkende argumentatie
+      meerdere argumenten
+      kan onafhankelijk zijn
+      kan afhankelijk zijn
+   onderschikkende argumentatie
+      een argument dat word ondersteund door een ander argument
+         leerlingen kunnen dan uitleg krijgen -> leerlingen halen hogere cijfers -> leerlingen zouden moeten worden begeleid (standpunt)
+
+drogredenen
+   drogreden is een fout in de argumentatie 
+
+   1:onjuist gebruik van argumentatieschema
+      onjuist beroep op oorzaak-gevolgschema
+         onjuist beroep causaliteit
+            niet genoeg oorzaak voor gevolg
+         onjuist gevolg 
+            oorzaak kan ander gevolg hebben
+         onjuist link
+            het gevolg komt niet door de oorzaak
+      onjuist beroep op kenmerk- of eigenschapschema
+         kenmerk word toegekend terrwijl andere relevanten kenmerken worden genegeerd
+            persoon A kan goed met pubers opschieten (argument) dus hij zal vast een prima leeraar zijn (standpunt) (of persoon A les kan geven word genegeerd)
+      onjuist beroep op voor- en nadelenschema (overdreven)
+         af en toe hardlopen is niet genoeg om je geheugen met sprongen te verbeteren
+      onjuist beroep op voor- en nadelenschema (vals dilema)
+         er word een keuze tussen A of B voorgehouden terwijl opties C tot en met k worden weggelaten
+      onjuist beroep op voorbeeldschema (overhaaste generalisatie)
+         een conclusie word getrokken uit een voorbeeld en onterecht toegepast op een groter groep
+      onjuist beroep op vergelijkingschema (verkeerde vergelijking)
+         onvergelijkbare dingen worden vergeleeken
+            in de trein hoeven geen toiletten te zitten (standpunt). In de bus zijn er immers ook geen wc's (argument) (bus reizen zijn korter, lange afstands bussen hebben wel wc's, wc's zijn moeilijker in bussen te bouwen dan in treinen
+      onjuist beroep op autoriteitschema
+         er word een beroep gedaan op een autoriteit die geen expert is
+            het lijkt mij beter dat niet te doen (standpunt) want talkshow-host A heeft dat ooit verteld (argument) (wie zegt dat talkshow-host A genoeg kennis van zaken heeft om te bepalen of je dat wel of niet moet doen)
+
+   2:overtreden discussieregels
+      personelijke aanval
+      de persoon word neergehaald, niet de argumenten 
+      ontduiken van bewijslast
+         na het standpunt volgt geen argument maar een vraag naar een tegenargument
+      cirkelredenering
+         het ondersteunde argument is het standpunt anders geformuleerd
+            op zondag werken is niet effectief (standpunt) want als je het goed bekijkt zijn je dat er dan niet zo veel uit je handen komt (standpunt vermomd als argument)
+      vertekenen van standpunt
+         de tegenstanders standpunt of argument word onjuist weergegeven.
+            partij A zegt dit. maar eigenlijk wil het gewoon dit maar durven ze dat niet te zeggen
+      bespelen van publiek
+         de emoties van het publiek worden gebruikt om het publiek tegen de tegenstander op te zetten.
+         ook is het mogelijk je standpunt ingewikkelder te formuleren zodat het moeilijker is ertegenin te gaan
+
+
+
+aanvaarrdbaarheid van argumentatie
+   welke argumenten worden er gebruikt?
+   zijn de argumenten feitelijk of waarderend?
+   hoe worden de argumenten ondersteund?
+   zijn de argumenten drogredenen?
+   worden er tegenargumenten genoemd?
+   zo ja, worden deze afdoende weerlegd?
+
+   argumenten zijn aanvaardbaar als ze
+      op zichzelf aanvaarrdbaar zijn 
+         waarderend
+            als het overeenkomt met de kennis of opvattingen van de lezer
+         feitelijk
+            evereenstemming met lezers kennis van de wereld
+            direct controleerbaar
+            afkomstig is uit betrouwbare bron
+      relevant zijn 
+         als het standpunt aannemelijker word is het relevanten (cirkelredenering maar okay)
+      onderling consistent zijn 
+         de geleverde argument spreken elkaar niet tegen
+      samen toerreikend (voldoende) zijn voor het ingenomen standpunt
+         wanneer de argumenten samen het standpunt aanvaardbaar maken (nog een cirkelredenering maar okay)

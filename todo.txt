@@ -1,0 +1,24 @@
+# duits mail         DONE
+ckv verwerking       DONE
+ckv deepening        DONE:7.0
+ckv portret          DONE:7.0
+water raket          DONE:4.0
+nlt poster           DONE:3.8 (upgrade incoming)
+nlt koken            DONE:7.0
+maatschappikleer po  DONE:8.0
+duits mail           DONE
+boek titel           DONE: lieveling
+vlog
+
+informatica          DONE       MA 26 jun
+
+scheikunde so redo                     DI 13 jun  1.0                                                       DONE:1.0       GOOD
+duits lees/luister                     DI 13 jun  2.95 (aan genomen dat het 2 cijfers zijn)                 DONE:8.1;7.3   GOOD 
+naatuurkunde                           DO 15 jun  2.5 (6.5 voor compensatie) (compensatie is optioneel)     DONE:6.1       GOOD (geen compensatie)
+wiskunde                               VR 16 jun  2.9 (9.9 voor 5.5)                                        DONE:6.4       GOOD 
+engels presentatie                     VR 16 jun  -11.1                                                     DONE:6.0       GOOD
+scheikunde toets                       VR 16 jun  4.3                                                       DONE:6.3       GOOD
+maatschappijleer                       DI 27 jun  3.6 (6.6 voor compensatie) (compensatie is optioneel)     DONE:8.0       GOOD
+
+pending:
+   nlt poster (chemisch practicum) ophoging

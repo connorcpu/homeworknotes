@@ -1,0 +1,27 @@
+ maak altijd eerst de reactie vergelijking
+
+ je mag alleen overstappen naar de andere stof via mol
+
+         p           M        V sub m
+ volume ----> mass ---> mol <--------- volume (g)
+                         ^
+                         |   
+                    concentratie (aq) (V)
+
+ M = molaire massa
+   g/mol 
+   grootheid
+   tabel 98,99,40A
+
+ V sub m = molair volume van een gas onder de juiste temperatuur en druk
+   l/mol | dm sup 3/mol
+   constante, vind in binas
+   tabel 7
+
+V = molairiteit
+   mol/L
+
+p = dichtheid
+   kg/m sup 3
+   g/cm sup 3
+   tabel 8-12 + 40A

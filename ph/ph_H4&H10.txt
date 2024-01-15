@@ -1,0 +1,49 @@
+9:45 at school
+9:15 depart
+8:30 wake
+3:30 latest option for sleep
+
+benodigde middelpunt zoekende kracht
+   f = (m*V^2) / r
+   f in N
+   m in Kg
+   V in m/s
+   r in m
+
+omlooptijd
+   Dx = 2Pi*r
+   T = (2Pi*r)/v
+   T in s
+   r in m
+   v in m/s
+
+gravitatiekracht
+   f = G * ((m*M) / r^2)
+   f in N
+   G is constant
+   m in kg (massa 1)
+   M in kg (massa 2)
+   r in m
+   
+
+gravitatiekracht:
+
+        m*M
+   G * -----
+        r^2
+
+omlooptijd:
+
+   Dx/Dt = v
+   Dx = omtrek = 2Pi*r
+   Dt = T
+
+       2Pi*r
+   T = -----
+         v
+
+middelpunt zoekende kracht:
+   
+        m*v^2
+   f = -------
+          r

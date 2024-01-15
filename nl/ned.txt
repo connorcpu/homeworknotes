@@ -1,0 +1,139 @@
+FORMULEREN:
+
+dubbelop:
+   zelfde woord 2 keer
+tautologie:
+   2 keer dezelfe beteknis EN je kunt het ene woord door het andere vervangen
+   E.G.: BOVENDIEN moet ik voor morgen OOK mijn huiswerk nog afmaken 
+     bovendien kan met ook worden vervangen
+pleonasme:
+   2 keer dezelfde beteknis maar je kunt NIET het ene woord met het andere vervangen 
+   E.G.: tot de VASTE STANDAARDUITRUSING  van een leerling behoren de agenda en etui
+      standaard en vast is hetzelfde maar je kunt ze niet vervangen
+contaminatie:
+   twee worden of uitdrukkingen worden gemixt
+   E.G.: het is lastig als moeder zijnde
+      moeder zijnde OF als moeder niet alebei
+dubbele ontkenning:
+   spreekt voor zich
+   E.G.: de teamleider kon niet voorkomen dat  de medewerker geen fouten maakte
+      hij zou fouten moeten voorkomen maar voorkomt dat er geen fouten worden gemaakt
+verwijs fout
+   een persoon word altijd naar verwezen met wie / door wie / over wie
+   terwijl naar een ding word altijd verwezen met wat / door wat / over wat
+foutieve samentrekking
+   voegwoorden "en, want, maar, dus, of" zijn belangerijk
+   als er iets in het tweede deel word weggelaten wat ook in het eerst deel staat maar
+   in het tweede deel heeft het een andere funtie en betekenis heeft als in het eerste 
+   deel. 
+   E.G.: ik heb haar niet gezien en dus ook niet gegroet
+      ik heb haar niet gezien en ik heb haar dus niet gegroet
+      weggelaten: ik heb haar
+      ik = pers.vnw     correct
+      heb = hulp.ww     correct
+      haar = LV         correct
+   E.G.: ik heb hard gewerkt en nu mijn diploma
+      ik heb hard gewerkt en ik heb nu mijn diploma
+      weggelaten: ik heb
+      heb(1) = hulp.ww
+      heb(2) = zelf.ww
+      dus: FOUT 
+beknopte bijzin
+   REGEL: het onderwerp van de hoofdzin moet het zelfde zijn
+   als het verborgen onderwerp van de  beknopte bijzin
+   E.G.: na een poosje rondgewandeld te hebben, kwam de auto ons tegemoet.
+      voor de komma:  onderwerp is degene die rondwandelen
+      na de komma: onderwerp is de auto
+      dus: FOUT
+      oplossing is zet het onderwerp in de zin:
+      nadat wij een poosje rondgewandeld habben, kwam de auto ins tegemoet.
+incongruentie:
+   het onderwerp en persoonsvorm moeten het zelfde getal hebben
+   onthoud: dingen als een aantal is enkelvoud want je kan er twee van hebben
+   E.G.: een aantal bouwvakkers besloot/besloten te staken
+      een aantal bouwvakkers is enkelvoud dus is het besloot
+
+WERKWOORD SPELLING:
+
+1:
+   is het een:
+   heel werkwoord
+   persoonsvorm
+   voltooid deelwoord
+
+   heel werkwoord spreekt voor zich
+
+persoonsvorm:
+   tegenwoordige tijd
+      enkelvoud
+         ik -> stam       (ik loop)
+         jij -> stam + t  (jij loopt)
+         hij/zij/het -> stam + t (hij loopt)
+      meervoud
+         wij/jullie/zij -> hele werkwoord (wij lopen)
+   verleden tijd
+       niet-klankvast -> eigen verleden tijd (ik loop, ik liep dus niet klankvast)
+       klankvast -> xtc-koffieshop - zit er WEL in -> stam + te(n) (ik clickte)
+                                   - zit er NIET in -> stam + de(n) (ik hoorde)
+voltooid deelwoord:
+   hww + ge + stam + xtc-koffieshop (ik heb gehoord, ik heb geclickt) 
+   een voltooid deelword als bijvoegelijk naamwoord (gevulde pot)
+   schrijf je zo kort mogelijk dus niet gevulden pot
+
+SPELLING:
+
+koppelteken:
+   in samenstelling met letters, afkortingen en cijfers
+      v-snaar
+      tbc-patient
+   in samenstellingen met een klinkerbotsing
+      radio-omroep
+      auto-onderdelen
+   aardrijkskundige namen met twee delen
+      Amsterdom-Oost
+      Nieuw-Zeeland
+   titel / rang
+      luitenant-kolonel
+      secretaris-generaal
+   meer dan twee woorden die samen een woord vormen
+      staakt-het-vuren
+      kant-en-klare
+   met voorvoegsels: adjunct, aspirant, assistent, bijna, chef, collega, ex, interim,
+   kandidaat, leerling, meester, niet, non en oud
+      ex-minister
+      kandidaat-notaris
+      oud-burgemeester
+   GEEN koppelteken bij een afkorting
+      sms'en
+      dvd'tje
+weglatingsstreepje
+   als een woorddeel 2 keer voorkomt mag je het weglaten, op de plek van het weggelaten
+   deel zet je een streepje
+      voor- en nadelen, binnen- en buitenband, carnavalsfeesten en -optochten
+   LET OP als je een heel woord weglaat gebruik je geen streepje
+      dure en goedkope kleding
+tussenletter
+   gebruike over het algemeen aleen een tussen letter (e / en) als het eerste gedeelte een
+   zelfstandig naamwoord is
+      hart+wens = hartenwens / hart+loos = harteloos
+   1:
+      als het eerste deel geen meervoud heeft: -e
+         rijstebrij,tarwbrood, gerstenat
+   2:
+      als het eerste deel een meervoud heeft op -s dan -e
+         campagneleider, etalegepop, modehuis
+   3:
+      als het eerste deel eleen een meervoud heeft op -(e)n, schrijf je -en
+         berenmuts, paddenstoel, stemmentrekker, sagenbundel, zedneles
+   4:
+      als het eerste deel een meervoud heeft op -(e)n EN -s schrijf je -e
+      maar als het eerste deel in het enkelvoud niet eindigt op -e schrijf je -en
+         gedachtegoed, secondelang, ziekteverzuim, ambtenarenstatuur
+   5:
+      als je een s ertussen hoort schrijf je een s
+         bvestuursorgaan, gezelschapsdame, oorlogsmisdadiger
+aan elkaar of los
+   bedoel je een ding/persoon/begrip -> 1 woord
+      rodewijnglazen -> een glas bedoelt voor rodewijn
+      rode wijnglazen -> een wijnglas van rood glas
+

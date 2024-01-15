@@ -1,0 +1,88 @@
+to know:
+   == sin = 1 ==
+      exacten waarden cirkel
+      sin(x) = 1 -> x = 0
+         x = 0 + (K * 2Pi)
+         
+      cos(x) = 1/4Pi -> x = 1/2*sqrt(2)
+
+   == sin -> cos ==
+      sin(-A) = -sin(A)
+      -sin(A) = sin(A + Pi)
+      sin(A) = cos(A - 1/2Pi)
+
+      cos(-A) = cos(A)
+      -cos(A) = cos(A + Pi)
+      cos(A) = sin(A + 1/2Pi)
+
+      sin^2(A) + cos^2(A) = 1
+      tan(A) = (sin(A))/(cos(A))
+
+   == afleiden ==
+      ketting regel
+         cos(4x) -> -sin(4x) * 4
+         cos(x^4) -> -sin(x^4) * 4x^3
+         cos^4(x) -> 4cos^3(x) * -sin(x)
+      quotiënt regel 
+         t/n -> (n*at - t*an)/n^2 (nat min tan gedeeld door de noemer in het kwadraat)
+         (sin(x))/(X^3 + sin(x)) -> ((x^3 + sin(x)) * cos(x) - sin(x) * 3x^2 + cos(x)) / (x^3 + sin(x))^2
+      product regel 
+            h(x) * g(x) -> h(x) * g'(x) + h'(x) * g(x)
+            x^3 * sin(x) -> x^3 * cos(x) + 3x^2 * sin(x) 
+      sinusoide
+         sin(x) -> cos(x)
+         cos(x) -> -sin(x)
+         tan(x) -> 1 + tan^2(x)
+   == tan ==
+      
+
+   == formules opstellen ==
+      a + b * sin(c(x-d))
+         a = evenwichts stand. max + min
+         b = amplitude. max - evenwichts stand 
+         c = 2Pi / periode. 2Pi delen door de delta van top tot top
+         d = 
+            sin begint op evenwichts stand. 
+               positief betekend stijdend
+               negatief betekend dalend
+            cos begint op top
+               positief betekend maximum
+               negatief betekend minimum
+
+            d staat in de formule als (x - d). d is hoever het begin punt langs de positieve x-as is geschoven
+
+       y = sin(x) begint stijgend door evenwichts stand (y = 0 + 1 * sin(1(x-0))
+       y = -sin(x) begint dalend door de evenwichts stand (y = 0 + -1 * sin(1(x-0))
+       y = cos(x) bigint op een top (y = 0 + 1 * cos(1(x-0))
+       y = -cos(x) begint op een minimum (y = 0 - 1 * cos(1(x-0))
+   
+
+   == SHORT LIST ==
+     exacten waarden cirkel gaat 1/6Pi, 1/4Pi, 2/6Pi voor ieder kwart 
+     
+      sin(-A) = -sin(A)
+      -sin(A) = sin(A + Pi)
+      sin(A) = cos(A - 1/2Pi)
+
+      cos(-A) = cos(A)
+      -cos(A) = cos(A + Pi)
+      cos(A) = sin(A + 1/2Pi)
+
+      sin^2(A) + cos^2(A) = 1
+      tan(A) = (sin(A))/(cos(A))
+      
+      afleiden
+      sin(x) -> cos(x)
+      cos(x) -> -sin(x)
+      tan(x) -> 1 + tan^2(x)
+
+      c = 2Pi/amplitude
+
+      sin(a) = sin(b) -> a = b + k * 2Pi || A = Pi - B + K * 2Pi
+      cos(a) = cos(b) -> a = b + k * 2Pi || a = -B + k * 2Pi
+
+   == sin = sin ==
+      sin(a) = sin(b) -> a = b + k * 2Pi || A = Pi - B + K * 2Pi
+      cos(a) = cos(b) -> a = b + k * 2Pi || a = -B + k * 2Pi
+
+

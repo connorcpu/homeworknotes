@@ -1,0 +1,22 @@
+uitwijking (cm)      | 10 slingertijden | 1 slingertijd
+5                    | 19,485           | 1,9485
+10                   | 19,8             | 1,98
+15                   | 20,1             | 2,01
+
+gewichtjes (20 gram) | 10 slingertijden | 1 slingertijd 
+---------------------|------------------|--------
+1                    | 11,75            | 1,175
+2                    | 11,8             | 1,18
+3                    | 11,83            | 1,183
+
+lengte (meter)       | 10 slingertijden | 1 slingertijd
+---------------------|------------------|--------------
+0,2                  | 7,81             | 0,781
+0,4                  | 12,34            | 1,234
+0,8                  | 17,7             | 1,77
+1,0                  | 20,07            | 2,007
+
+
+1: uitwijking++ = slingertijd++
+2: gewichtjes++ = slingertijd+
+3: touw++       = slingertijd++

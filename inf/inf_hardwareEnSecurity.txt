@@ -1,0 +1,25 @@
+drielagenmodel
+   fysieke laag
+   logische laag
+   toepassings laag
+
+hardware
+   von neumann-architectuur
+      input
+      output
+      processor
+         besturings orgaan
+         reken orgaan 
+      RAM
+
+software
+
+datacommunicatie
+
+digitale veiligheid
+
+bedreigingen
+
+maatregelen
+
+eindige automaten
