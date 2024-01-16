@@ -29,13 +29,13 @@ strofes: distichon, terzet, kwatrijn, sextet, octaaf
 - personificatie
 
 ### stijlfiguren
-antithese: tegenstelling 
-paradox: schijnbare tegenstrijdigheid die na nadenken blijkt te kloppen (om het hoogste te berijken moet je tot de bodem gaan)
-litotes: ontken het tegenovergestelde (niet zo fraai)
-ironie: zeg het tegenovergestelde van wat je bedoeld (sarcasme)
-pleonasme: bijvoegelijke naamwoord geeft info die we al hadden (witte sneeuw)
-tautologie: 2x dezelfde betekenis (nijd en haat)
-eufemisme: afzwakking (heengegaan)
-chiasme: kruisstelling (je moet niet leven om te eten, maar eten om te leven)
-parallellisme: zelfde zins opbouw (verder weg dan A, verder weg van B) (repitio is zonder aanpassing)
+antithese: tegenstelling  
+paradox: schijnbare tegenstrijdigheid die na nadenken blijkt te kloppen (om het hoogste te berijken moet je tot de bodem gaan)    
+litotes: ontken het tegenovergestelde (niet zo fraai)   
+ironie: zeg het tegenovergestelde van wat je bedoeld (sarcasme)   
+pleonasme: bijvoegelijke naamwoord geeft info die we al hadden (witte sneeuw)  
+tautologie: 2x dezelfde betekenis (nijd en haat)     
+eufemisme: afzwakking (heengegaan)   
+chiasme: kruisstelling (je moet niet leven om te eten, maar eten om te leven)    
+parallellisme: zelfde zins opbouw (verder weg dan A, verder weg van B) (repitio is zonder aanpassing)    
 
