@@ -48,7 +48,7 @@
    - denkvraag
    - roman: werd op neergekeken
    - brievenroman: roman die bestond uit brieven
-- romantiek (1800- 1880)
+- romantiek (1800- 1880): tijdens de industrialisering zijn de omstandigheden slecht en mensen willen het onbekende en ongerepte natuur etc
    - escapisme: (flint) vlucht uit de werkelijkheid
    - de kunstenaar als ziener: kunstenaar zoekt waarheid achter werkelijkheid
    - gevoel is belangerijk: kunst word gemaakt met gevoel
@@ -57,7 +57,7 @@
    - sprookje: volksprookjes worden nu ook opgeschreven, nog niet voor kinderen
    - detectiveroman: 
    - science fiction
-   - porno
+   - porno: vorm van escapisme
 - realisme (19.5e eeuw - 1870): men probeert de werkelijkheid weer te geven zoals hij is
 
 
