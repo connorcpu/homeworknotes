@@ -2,6 +2,7 @@
 Een oplossing kan zuur, basisch of neutraal zijn.
 Een oplossing is ZUUR als de pH ONDER de 7 is en dus een pOH van boven de 7 heeft.
 Een oplossing is BASISCH als de pH BOVEN de 7 is en dus een pOH van onder de 7 heeft.
+Een zuur geleid stroom als hij word opgelost in water
 
 omdat $pH + pOH = 14$
 
@@ -40,4 +41,9 @@ $$ pH = -log([zuurrestion]) $$
 
 ingevulde zuurgraad berekening:
 $$1,7\times10^{-5} = {{x \times x} \over {0,053 - x}} = {{x^2} \over {0,053}} \implies x = \sqrt{1.7 \times 10^{-5} \times 0,053} = 9,5 \times 10^{-4}$$
-$0,053 - x$ mag worden reduceerd als minder dan 10\% van het zuur een $H^+$ afstaat tot $0,053$. Op de toets is dit als het goed is altijd het geval
+$0,053 - x$ mag worden reduceerd als minder dan 10\% van het zuur een $H^+$ afstaat tot $0,053$. Op de toets is dit als het goed is altijd het geval   
+66 voor triviale namen
+49 voor zuur-basis
+
+oxide-ionen kunnen niet in water bestaan, als er dus een zout met een oxide-ion (zoals CaO) in water word gegooit zal de er $2OH^-$ ontstaan
+let op dat er een O van CaO afkomt maar dit neemt een O weg van $H_2O$ dus krijg je $2OH^-$

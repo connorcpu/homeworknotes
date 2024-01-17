@@ -1,4 +1,4 @@
-NL -> D]
+[NL -> D]
 [blz 100]
 de baan = der job
 het bedrijf = der betrieb 
