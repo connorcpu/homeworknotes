@@ -15,8 +15,8 @@
 
 ### rotaties
 
-a(p, q) -> a_r(p, -q)
-a(p, q) -> a_l(-p, q)
+a(p, q) -> $a_r(p, -q)$   
+a(p, q) -> $a_l(-p, q)$
 
 ## P3
 
