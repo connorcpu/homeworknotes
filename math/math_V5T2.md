@@ -2,8 +2,7 @@
 
 ## P1
 
-(x)  
-(y)
+$\binom{a}{b}$
 
 ### optellen en aftrekken
 (x, y) + (x, y) = (x+x, y+y)
@@ -39,4 +38,14 @@ $cos(\varphi) = {{\vec{a} \cdot \vec{b}} \over {\vert\vec{a}\vert \cdot \vert\ve
 
 ### normaal vector 
 $\vec{a} \cdot \vec{b} = 0 \rightarrow \vec{a} \bot \vec{b}$  
-$l: ax + by = c$ geeft een normaal vector aan de lijn van (a, b)
+$l: ax + by = c$ geeft een normaal vector aan de lijn van $\binom{a}{b}$
+
+## P5
+
+### snelheid
+parameter voorstelling van een lijn: $\vec{r} = \binom{x(t)}{y(t)}$  
+$\vec{r} = \binom{x(t) = t^3 - 4t}{y(t) = t^2-3}$  
+$\vec{p} = \binom{x'(t) = 3t^2 - 4}{y'(t) = 2t}$
+
+Een punt is evenwijdig aan de X-as als $y'(t) = 0 \land x'(t) \neq 0$  
+Een punt is evenwijdig aan de Y-as als $x'(t) = 0 \land y'(t) \neq 0$
