@@ -1,0 +1,24 @@
+current:
+duits       6.8 
+engels      7.9
+natuurkunde 7.4
+nederlands  6.5
+scheikunde  6.0
+wiskunde    7.8
+
+(1) duits       7.3 (1) & 6.3 (1)
+(1) engels      7.8 (2) & 7.9 (2) & 8.4 (1)
+    natuurkunde 8.2 (1) & 6.7 (1)
+(1) nederlands  6.1 (1) & 6.9 (1)
+(4) scheikunde  6.4 (4) & 6.8 (4) & 1.5 (1)
+(1) wiskunde    6.9 (1) & 6.8 (1) & 9.8 (1)
+
+
+min:
+duits       2.9
+engels     -6.8
+natuurkunde 1.6 (1) | 3.6 (2)
+nederlands  3.5
+scheikunde  4.3
+wiskunde   -1.5
+
