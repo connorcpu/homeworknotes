@@ -1,0 +1,37 @@
+Plan van aanpak
+names: Connor & Merijn
+Title:
+   A greener jet engine - what is the most environmentally friendly way to improve the efficiency of a jet engine?
+Primary question:
+  what is the most environmentally friendly way to improve the efficiency of a jet engine? 
+sub-questions:
+   - efficiency (how do we calculate efficiency)
+   - fuels (different fuels that could be used)
+   - building materials (what materials could we use)
+action plan: 
+   1. Do research into how a modern jet engine functions
+   2. See how we could improve on that design 
+   3. Review different potential fuels 
+   4. Choose a fuel and create a design
+
+
+## layout ##
+
+Cover sheet
+Abstract
+Table of contents
+Introduction
+
+Preliminary research 
+   research into everything we already know (#1 & #2)
+
+Research question 
+   what is the most environmentally friendly way to improve the efficiency of a jet engine?
+
+Hypothesis - you probably want to choose fuel 
+   Theory (#3 & #4)
+
+Experiment
+Results
+Discussion 
+Sources

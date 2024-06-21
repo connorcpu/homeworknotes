@@ -1,0 +1,31 @@
+lewisstructuren (komt wel goe)
+VSEPR-theorie   (komt wel goe)
+mesomerie (wa is da)
+reactiemechanismen (ff naar kijken)
+stereo-isomerie (wa is da)
+
+
+lewis structuur heeft electronen
+
+vsepr is verschillende type bingdingen & ruimtelijke bouw
+   polair means ^delta- / ^ delta+
+   waterstof bruggen
+      H^delta+  AND  ongebonden electronen paar (^delta-?)
+
+mesomerie is als je meerdere lewisstructuren kunt maken van een verbinding
+   elke unieke lewisstructuur heet een grensstructuur
+   hoe meer grensstructuren hoe stabieler
+   je kunt ze maken door electronenparen te verplaatsen
+
+reactiemechanismen
+   radicaal (dont be dumb)
+   substitutie
+      je vervangt een atoom of groepje met een andere
+   ionair
+      nucleofiel + electrofiel, schoemel some electrons around
+
+stereo-isomerie als je een niet-draaibare binding hebt kan je cis of trans isomeren hebben
+   denk na, als ze kunnen draaien werkt die shit niet. 
+   cis is zelfde kant van de koolstoffen
+   trans is andere kant van de koolstoffen
+   spiegelbeeld isomerie lijkt hetzelfde maar is t net niet

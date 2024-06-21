@@ -22,3 +22,19 @@ maatschappijleer                       DI 27 jun  3.6 (6.6 voor compensatie) (co
 
 pending:
    nlt poster (chemisch practicum) ophoging
+
+
+## YEAR 5 END STRETCH
+
+en    oral                    test              DI 18 jun -10                       DONE
+nl    CV                      requirement       WO 19 jun                           DONE
+nl    motivatiebrief          test              WO 19 jun  3.6                      DONE
+PWS   bronnenlijst            deadline          DO 20 jun                           DONE
+nlt   bier pitch        SE    no prep           DO 20 jun  6.9 (for 6.5 on SE)      DONE
+nlt   duurzaamheid      SE    presentatie       DO 20 jun  6.9 (for 6.5 on SE)      DONE:6.8 
+sch   H5                      test              VR 21 jun  3.3
+de    vlog                    deadline          MA 24 jun -0.7 
+na    H7                      test              WO 26 jun -5.2 (but put in effort)
+in    microbit          SE    deadline+pres     VR 28 jun  7.9 (for 8.5 on SE)
+en    HLessay                 deadline          MA 01 jul  (weging 0)
+
