@@ -1,7 +1,7 @@
 ## herhaling: electirischteit
 $p = U * I = E \div t$  
-$I = C * T$  
-$E = P * T$  
+$I = C * t$  
+$E = P * t$  
 $U = R * I$  
 
 weerstand in draad: $R \times A = l \times \rho$  ($A = \pi \times r^2$)
@@ -29,7 +29,7 @@ $R_{tot} = R_1 + R_2$ | $\frac{1}{R_{tot}} = \frac{1}{R_1} + \frac{1}{R_2}$
    - I is de stroomsterkte
 - lorentz kracht
    - rechterhand regel: vingers volgen veldlijnen; duim volgt electirischteit **PLUS NAAR MIN**; lorentz kracht komt uit je handpalm
-   - $F_l = B \times I \ times l$
+   - $F_l = B \times I \times l$
       - $F_l$ is de lorentz kracht 
       - B is de veldsterkte
       - I is ampere
@@ -39,7 +39,7 @@ $R_{tot} = R_1 + R_2$ | $\frac{1}{R_{tot}} = \frac{1}{R_1} + \frac{1}{R_2}$
 - **PLUS NAAR MIN**
 - richting van veldlijn geeft aan welke richting de electrische kracht is op dat punt
 - $E_{el} = U \times q \rightarrow U \times q = \frac{1}{2} \times m \times v^2$
-- $F_el = E \times q$
+- $F_{el} = E \times q$
 - $v = \sqrt{\frac{2 \times U \times q}{m}}$
 
 ## mass-spectometer
