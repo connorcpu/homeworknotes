@@ -21,8 +21,12 @@
    - *rechter*hand voor spoelen
       - vinger buigen met spoel mee, kracht volgt duim
    
+   - $F_L = B \times I \times L$
+      - $F_L$ = Lorentz kracht 
+      - B is veldsterkte in tesla ($T$)
+      - I is de stroom sterkte 
+      - L is de lengte van de draad in het magneet veld in meter
    
-
    ### flux ###
    
    - $\Phi = B \bot A$
