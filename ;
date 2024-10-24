@@ -1,0 +1,55 @@
+# limieten #
+
+### perforaties ###
+
+$f(x) = {{g(x)} \over {h(x)}} = {0 \over 0}$
+
+## asymptoten ##
+
+### horizontalen asymptoten ###
+
+limiet gaat naar oneindig ($\infty$) en min oneindig ($-\infty$) -> $\lim_{x \to \infty}$ & $\lim_{x \to -\infty}$ (please note, dit word hetzelfde opgelost met de standaard limiet)
+
+### verticale asymptoten ###
+
+bij gebroken functie: ${n \neq 0} \over {0}$
+
+### scheve asymptoten ###
+
+scheve asymptoot bestaat als in $f(x) {g(x) \over h(x)}$ $g(x)$ een hogere macht heeft dan $h(x)$ (teller heeft hogere macht noemer -> $\frac{x^2 + 6x + 5}{2x + 4}$)  
+
+1. uitsplitsen
+2. bewijs overgebleven fractie met $lim_{x \to \infty} = 0$
+3. alles niet fractie is scheve asymptoot
+
+## sprongen en knikken ##
+
+sprong is wanneer $\lim_{x \uparrow a} \neq \lim_{x \downarrow a}$  
+knik is wanneer sprong in afgeleide
+
+## standaard limieten ##
+
+0 < g < 1 | g > 1 
+----------|----------
+$lim_{x \to \infty} g^x = 0$ | $lim_{x \to -\infty} g^x = 0$
+$lim_{x \downarrow 0} = lim_{\log^g(x) \to \infty}$ | $lim_{x \downarrow 0} = lim_{ln(x) \to -\infty}$
+/ | $lim_{x \downarrow 0} = log^g(x) \to -\infty$  
+
+- $lim_{x \to \infty}$
+- $lim_{x \to -\infty}$
+- $lim_{x \to 0}$
+- $lim_{x \to \infty} f(x) = g^x = 0$ voor 0 < g < 1
+- $lim_{x \to -\infty} f(x) = g^x = 0$ voor g > 1
+
+# goniometry #
+
+- sin = y
+- cos = x
+- tan = $y \over x$ (so $tan^{-1}$ for R.C. to $\alpha$ and tan for the other way)
+- SOH CAH TOA
+
+$sin(-a) = -sin(a)$ | cos(-a) = cos(a)
+----|-----
+$-sin(a) = sin(a + \frac{1}{2}\pi$ | e
+
+# afgeleide #
