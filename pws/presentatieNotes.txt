@@ -1,0 +1,45 @@
+Architetures
+   
+   proppelor based alternatives
+      ducted fans use airflow optimized fan-blades because exit velocity so pressure fan-blades makes no sense
+      you can either replace the big fan with a propellor
+      or you can forgo ducted fan and go for a full-size prop which can extend above the wing
+
+   partial electric jet engine
+      full electric sucks cause low thrust and high electricity consumption
+      use electricity to power the compressor thus not losing efficiency to the turbine
+      con: have to carry batteries that cost space and weight
+
+   heat recapture
+      heat will always be the largest source of energy loss in any combustion engine 
+      heat has long been used as energy source 
+      water going from liquid to gas can turn things like a turboshaft with expantion
+      you could use it to generate electricity (dont combine electric jet engine with heat recapture cause inefficiency)
+
+Fuels
+   
+   Hydrogen
+      energy dense but only when cryogenic (hydrogen cars are just electric cars)
+      safty nightmare (hindenburg)
+      common in rockets
+      compressed storage is possible but still safety nightmare
+
+   Methane
+      middle ground between hydrogen and Kerosine
+      ideally cryogenic but compressed is now viable
+      common in cars (millions worldwide)
+      CNG is considered safer than gasoline because:
+         high auto-ignition temperature (hard to ignite)
+         narrow range of flammability (5 to 15 percent concentration)
+         clean burning (good for environment & engine lasts longer) (88% less carbon emitions than the average hydrocarbon)
+         con: low energy density of CNG (roughly 4 times more space to fuel)
+         con: CNG is at 247amt of pressure so the weight of the fuel tank reinforcements would be insane (link to paying extra for luggage)
+         con: optimal shape of pressure tank is circulair or cylindrical, normally fuel is in the wings so that's not gonna work (fuel has to be in the wings cause of wierd wing shape)
+         pro: would work for low volume cargo a long distance or extremly high density cargo
+
+   Propane
+      common for small apliences, millions of cars or heating homes
+      6.8 to 13.6 atm to keep liquid, much better than CNG
+      better per kg than Kerosine, worse than methane 
+      worse per liter than CNG or compressed hydrogen but slightly worse than Kerosine
+      so as long as the weight savings per kg fuel are more than the weight losses of tanks made for 6.8/13.6atm it could be better, that will probably end you up with medium volume cargo plane where propane could extend range

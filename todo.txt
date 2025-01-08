@@ -38,3 +38,9 @@ en    HLessay                 deadline          DI 25 jul  (weging 0)           
 na    H7                      test              WO 26 jun -5.2 (but put in effort)
 in    microbit          SE    deadline+pres     VR 28 jun  7.9 (for 8.5 on SE)      DONE 
 
+
+## random V6 week
+na    practicum         SE    deadline          DI 19 nov   DONE 
+nlt   ding #1           SE    deadline          WO 20 nov   READY
+en    herkansing        SE    test              DO 21 nov   
+sc    duits presentatie       pres              VR 22 nov   
