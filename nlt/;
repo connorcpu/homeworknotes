@@ -1,0 +1,51 @@
+.TL
+Bepaling Calciumcarbonaatgehalte in Krijtjes
+.AU
+Connor Spruit
+.AI
+Het Groen van Prinsterer Lyceum
+
+.bp
+.NH 1
+voorbereidende vragen
+.NH 2
+Geef de vergelijking van de reactie van Calciumcarbonaat met een zwavelzuuroplossing:
+.EQ 
+CaCO sub 3 (aq) + H sub 3 O sup + (aq) + HSO sub 4 sup - (aq) -> CaSO sub 4 (s) + CO sub 2 (g) + 2H sub 2 O (l)
+.EN
+
+.NH 2
+Laat met een berekening zien dat er gebruik werd gemaakt van een overmaat zwavelzuuroplossing
+.LP
+1.1 laat zien dat 1 mol Calciumcarbonaat gelijkstaat aan 1 mol zwavelzuuroplossing. Als deze verhouding niet één staat tot één is is er dus overmaat (of ondermaat).
+Houd er rekening mee dat krijt voor ongveer de helft uit Calciumcarbonaat bestaat.
+.EQ
+40.078 + 12.011 + (15.99 times 3) = 100.086 g/mol
+.EN
+.EQ
+CaCO sub 3 : {0.0720g over 2 } over 100.086g/mol = 0.000359690666027 mol
+.EN
+.EQ
+H sub 2 SO sub 4: 50.0 times 10 sup {-3} L times 0.100 M = 0.005 mol
+.EN
+.LP
+0.005 mol meer is dan 0.0007 kunnen we concluderen dat het zwavelzuur in overmaat aanwezig is.
+
+.NH 2
+Mag de 50.0 mL zwavelzuuroplossing in een bekerglas worden afgmeten? verklaar je antwoord
+.LP
+Nee, hiervoor moet een pipet worden gebruikt want het bekerglas zelf is niet nauwkeurig.
+
+.NH 2
+Welke kleuromslag markeert het eindpunt van de titratie?
+.LP 
+Als de oplossing licht roze word is de titratie goed, dit komt doordat fonalftaleïnen als indicator gebruikt word. Fonalftaleïne word roze als de pH 7 bereikt.
+
+.NH 1
+verkerking
+.NH 2
+Bereken het massapercentage Calciumcarbonaat in het gebruikte krijt 
+.LP
+Aangezien de indicator omslaat bij een pH van 7 kunnen we ervan uitgaan dat de oplossing na de titratie een pH heeft van 7 en dus neturaal is.
+Tijdens de reactie tussen het Calciumcarbonaat en het zwavelzuur (zie 1.1) regageert een deel van de H_3O^+ weg. 
+Omdat het zwavelzuur in overmaat aanwezig was regageert niet alles weg
