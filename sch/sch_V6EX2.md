@@ -14,4 +14,5 @@
 - [ ] evenwichten (evenwichtsbeschouwingen)
 - [ ] zuur-base (sterke/zwakke zuren)(ionisatiepercentage)
 - [ ] redox
-
+- [ ] buffers
+- [ ] herhalings dingen zoals chromatografie
