@@ -35,7 +35,7 @@ im artikel geht es um sparingen innerhalb der kultursektor mit ein leicht schwer
 ### zusammenfassung
 
 kürzlich hast die deutsche regierung entscheiden das auf die kultursektor gespart muss werden was hauptsächlich in berlin große nachfolge hast.
-Weil die sektor sich abhängig ist von das offentlichige geld fuchten viel museen und theater fur ihren existenz.
+Weil die sektor sehr abhängig ist von das offentlichige geld fuchten viel museen und theater fur ihren existenz.
 der bertelmann stiftung hatte ein studie gemacht und sagt das 90% von deutsche leute meint das die theater und museen sollen bleiben bestehen,
 Und drie vierteil fand das offentlichigen geldern dafur benuzt sollen werden.
 
