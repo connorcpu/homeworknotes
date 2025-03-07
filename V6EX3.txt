@@ -1,0 +1,18 @@
+
+monday:     0x0
+tuesday:    wiskunde
+wednesday:  duits + AE admition
+thursday:   ned + schei
+friday:     engels
+saturday:   iscout
+monday2:    natuurkunde
+
+
+wiskunde:    boekjes in schrift
+duits:       literatuurgeschiedenis
+AE admition: wiskunde + first year topics + natuurkunde
+ned:         fuck lezen, extratenbank?
+schei:       analyse + groene chemie, check galerij
+engels:      IB oral
+iscout:      print wat shit 
+natuurkunde: quantumFalse
