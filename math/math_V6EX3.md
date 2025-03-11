@@ -1,7 +1,8 @@
-
 bonus shit:
 - kromme door toppen
 - wortel reken regels
+- rekenregels gonio 
+- kettingregel bij primitieve
 
 
 ## domein B: Funcies, grafieken en vergelijkingen
