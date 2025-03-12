@@ -88,3 +88,38 @@ Ribs provide:
 Proper spacing is mandatory with ribs.
 Since every wing could have different loads attributed to it any rib may be individually designed.
 
+## torsion box
+A single spar would not be able to carry any torsional moment, for this reason usually 2 spars are used.
+Cylindrical or any shape with a closed cross-section are however better at resisting torsion.
+Torsion boxes may also be integrated into the wing, requiring thicker skin panels.
+Torsion boxes usually result in lower structural weight compared to a dual spar design.
+
+## structural details
+- stringer joggling
+- stringer couplings for fuselage barrel
+- stringer frame intersection 
+- stringer rib intersection 
+
+Because forces are not equal across the fuselage thickness will vary and because the exterior must be smooth, the additional removed material will come from the inside of the panel.
+Alternatively plates may be doubled to create a thicker plate, which can be riveted or bonded.
+Any attached stringers have to follow these thickness steps.
+Stringer joggling is when the stringer is shear deformed to allow it to follow the thickness steps.
+It is also possible to splice stringers from different panels together on the inside using a splice plate, the thickness difference has to be accounted for.
+To interface a stringer with a frame it is possible to make a hole in the frame which leads to a weaker frame.
+Bolting or riveting the stringer to the frame is also possible with clips or castellation.
+In a similar fashion the wing-stringer intersection can be done by either interrupting the rib or the stringer, alternatively, it is possible to interrupt neither.
+
+## typical spacecraft structures
+Most forces are related to launch not to space operations.
+Two categories can be distinguished:
+- strutted structures 
+- central cylindrical shell structures
+
+### strutted structures
+The struts form a truss, and these transfer the thrust applied via the payload adapter.
+While the stability of the struts require consideration because the primary loading is longitudinal, struts are an excellent option.
+
+### central cylindrical shell 
+Either a cylinder or a cone is positioned centrally and provides the majority of the load bearing.
+Any and all systems are from there either positioned directly on the cylinder or attached via a combination of struts, platforms and shear webs.
+  
