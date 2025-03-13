@@ -21,3 +21,27 @@ natuurkunde: quantum + golven
 6.5 voor duits om 8 te houden
 7.1 voor ned om naar 7 te gaan
 4.7 voor sch om 7 te blijven
+
+### wis 
+2.93 voor 5.5
+6.26 voor 6.5
+9.60 voor 7.5
+
+### ned 
+btween 6.2 and 6.4
+
+### duits
+-34.4 voor 5.5
+-14.4 voor 6.5
+5.6 voor 7.5
+25.6 voor 8.5
+
+### engels
+-4.7 voor 5.5
+1.96 voor 6.5
+8.63 voor 7.5
+
+### natuurkunde
+0.36 voor 5.5
+3.7 voor 6.5
+7.03 voor 7.5

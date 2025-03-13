@@ -15,9 +15,23 @@
 # groene chemie
 
 - 12 principes
+   - preventie
+   - atoomeconomie 
+   - minder schadelijk productie methoden
+   - ontwkiielen van minder schadelijke stoffen 
+   - veiliger oplosmiddelen
+   - energie efficient ontwerpen
+   - gebruik van hernieuwbare stoffen 
+   - reacties in weinig stappen 
+   - katalysoters (zijn goed)
+   - tussentijdse analyse met oog op ontreinigings preventie 
+   - minder risicovolle stoffen
 - atoomeconomie
+   - molecul massa van productstof gedeeld door molecul massa input stoffen keer 100
 - E-factor
+   - mass of waste over mass of product 
 - cradle-to-cradle
+   - werken in cyclusen zoals dat biologie dat doet
 
 
 # procestechniek
