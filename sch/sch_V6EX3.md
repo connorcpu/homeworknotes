@@ -24,4 +24,5 @@
 
 - blokschema's
 - reactiewarmte
-- vormings warmte
+   - zoek vormings warmtes
+   - alles links van de pijl negatief want je ont-vormt ze

@@ -18,3 +18,6 @@ natuurkunde: quantum + golven
 
 
 7.1 gemmideld voor SE voor 3e toetsweek
+6.5 voor duits om 8 te houden
+7.1 voor ned om naar 7 te gaan
+4.7 voor sch om 7 te blijven
