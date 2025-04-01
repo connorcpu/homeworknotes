@@ -39,3 +39,12 @@ bonus shit:
 - optimaliseren voor goniometrische modellen: ?
 - kromme door toppen: ?
 - wentelen: $\pi \int y^2 dx$ voor om X-as, $x^2$ voor om Y-as
+
+
+# herkansing
+q1: herleid eerst
+q4: zoek voor gelijkvormigheid in geometrie
+q6: DONT DERIVE WHEN INTEGRATING & also same surface area: consider deviding by 2
+q7: check berken of bereken exact
+q8: denk na 
+

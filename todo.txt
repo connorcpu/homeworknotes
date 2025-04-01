@@ -44,3 +44,14 @@ na    practicum         SE    deadline          DI 19 nov   DONE
 nlt   ding #1           SE    deadline          WO 20 nov   READY
 en    herkansing        SE    test              DO 21 nov   
 sc    duits presentatie       pres              VR 22 nov   
+
+
+## YEAR 6 END STRETCH
+NLT   lenzen            SE    deadline          VR 28 mar   DONE
+NLT   vit-C             SE    deadline          DO 27 mar   DONE
+NLT   vrijving 23       SE    deadline          VR 04 apr               is the actual numbers of wrijving
+sch   extraheren        SE    PO                DO 27 mar   DONE
+sch   welkCijferWilJe         learnbeat         VR 28 mar   DONE
+sc    ?                       weekend           VR 28 mar   DONE
+in    game              SE    presentatie       WO 26 mar   DONE:8.0/8.5
+
