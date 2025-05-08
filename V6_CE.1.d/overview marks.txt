@@ -1,0 +1,60 @@
+SE: 
+
+   com: 6.7 SE
+   dul: 7.7 
+   enl: 7.5
+   inf: 8.6 SE
+   NLT: 6.5 SE
+   nat: 7.4
+   ned: 6.3
+   sch: 7.0
+   wis: 6.7
+
+
+min: (eindlijst 5.5)
+   
+   dul: 3.3
+   enl: 3.5
+   nat: 3.6
+   ned: 4.7
+   sch: 4.0
+   wis: 4.3
+
+   gem: 3.9 :(
+
+
+voor 6.5: (min cijfers per vak voor cum laude)
+
+   dul: 5.3
+   enl: 5.5
+   nat: 5.6
+   ned: 6.7
+   sch: 6
+   wis: 6.3
+
+   gem: 5.9 :) 
+
+
+voor 7.5:
+
+   dul: 7.3
+   enl: 7.5
+   nat: 7.6
+   ned: 8.7
+   sch: 8
+   wis: 8.3
+
+voor 8.0 eindlijst gemiddeld: (inf, com & NLT meegerekend) (cum laude gemiddelde)
+
+   dul: 9.0
+   enl: 9.2
+   nat: 9.3
+   ned: 10.4
+   sch: 9.7
+   wis: 10.03
+   
+   gem: 9.605
+   
+   gem: 8.36666 (eindlijstcijfer gemiddelde van CE vakken)
+
+

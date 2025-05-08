@@ -1,0 +1,44 @@
+leesvaardigheid:
+
+
+
+argumentatieleer:
+
+- analyseren
+   - argumenten identificeren en interpreteren
+   - argumentatienstructuren onderscheiden/herkennen
+      - enkelvoudig
+      - onderschikkende argumentaties 
+      - nevenschikkende argumentaties
+   - feitelijk of waarderend argument
+   - argumentatieschema's herkennen 
+      - oorzaak-gevolgschema
+      - kenmerk- of eigenschapsschema
+      - voor-en-nadelenschema
+      - voorbeelden 
+      - vergelijking
+      - autoriteit
+- beoordelen
+   - aanvaardbaarheid
+      - aanvaardbaarheid en controleerbaarheid van feitelijke argumenten
+      - betrouwbraarheid van bronnen 
+      - aanvaardbaarheid van waarderende argument 
+      - relevantie van argumenten
+      - consistentie van de argumentatie 
+      - toereikendheid van de argumentatie 
+   - drogredenen
+      - onjuist gebruik van argumentatieschema
+         - OBOE (onjuist beroep op een) oorzaak-gevolgschema
+         - OBOE kenmerk- of eigenschapsschema
+         - OBOE voor-en-nadelenschema
+            - overdrijven van voor- of nadelen 
+            - vals dilema
+         - OBOE voorbeeldschema: overhaaste generalisatie
+         - OBOE vergelijkngsschema: verkeerde vergelijking
+         - OBOE autoriteit
+      - overtreding discussieregels
+         - personelijke aanval
+         - ontduikken van de bewijslast 
+         - cirkelredenering
+         - vertekenen van een standpunt
+         - bespelen van publiek
