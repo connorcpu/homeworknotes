@@ -33,3 +33,8 @@ limieten en asymptoten:
    - make sure to counter any unwanted byproducts
 
 - sinus regel: $\frac{\sin \alpha}{a} = \frac{\sin \beta}{b} = \frac{\sin \gamma}{c}$
+- cosine regel: $a^2 = b^2 + c^2 -2bc \cos(\alpha)$
+   - pythagoras min 2BC cos alpha
+   - waar a de lengte van de overstaande zijde van \alpha is
+   - waar alpha een hoek is
+   - waar b & c de aanliggende zijdes zijn
