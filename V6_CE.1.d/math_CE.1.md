@@ -1,0 +1,123 @@
+sin(a) = sin(b) -> a = b + k * 2Pi || A = Pi - b + k * 2Pi
+cos(a) = cos(b) -> a = b + K * 2Pi || A = -B + k * 2Pi
+
+Syllabus:
+
+- A vaardigheden
+   - A1 algemeen
+   - A2 profiel specefiek
+   - A3 wiskundig
+      - rekenregels
+      - specifieke algebraïsche vaardigheden
+
+- B functies grafieken en vergelijkingen
+   - B1 formules en functies 
+      - formule herschrijven
+      - formule herleiden
+      - grafiek tekenen
+      - formules combineren 
+   - B2 standaardfuncties
+      - karakteristieken eigenschappen van:
+         - $x^p$
+         - $\sqrt{x}$
+         - $a^x$
+         - $log{_a}{x}$
+         - $\sin{x}$, $\cos{x}$, $\tan{x}$
+         - $|x|$
+      - domein, bereik, nulpunt, extreem, minimum,, maximum, stijgen, dalen toenemend of afnemend stijgen of dalen 
+      - snijpunt met de x- of y-as, top, buigpunt, symmetrie, asymptotisch gedrag: horizontaal, verticaal of schuin
+      - tekenen 
+      - tweedegraads functies herschrijven
+      - funcie voorschift opstellen (aan de hand van een tabel)
+      - verdubblingstijd of halveringstijd bepalen van exponetiele functies 
+   - B3 functies en grafieken 
+      - translatie of vermenigvuldiging
+      - samengestelde functies opstellen 
+      - karakteristieken eigenschappen van functies bepalen 
+   - B4 inverse functies
+      - opstellen 
+   - B5 vergelijkingen en ongelijkheden
+      - stelsels
+      - ABC-formule
+      - herleiden tot:
+         - lineair
+         - kwadratisch
+         - $x^a = c$
+         - $|x| = c$
+         - $\log{_g}{x} = c$
+         - $a^x = c$
+      - oplossen van het type:
+         - $f(x) = g(x)$ (waar f en g B2 functies zijn)
+      - ongelijkheden zoals $f(x) < g(x)$ of $f(x) \leq g(x)$
+   - B6 asymptoten en limietgedrag van functies
+      - notatie
+      - linker en rechter limiet 
+      - perforaties
+      - horizontale, verticale en scheve asymptoten opstellen
+      
+- C calculus 
+   - C1 afgeleide
+      - opstellen 
+      - raaklijn
+      - stijgen / dalen 
+      - extreme waarden
+      - afgeleide schetsen
+      - normale functie schetsen als afgeleide grafiek gegeven is
+      - tweede afgeleide voor toenemend of afnemend stijgen of dalen
+      - buigpunten
+   - C2 technieken voor differentiëren 
+      - afgeleide van standaardfuncties
+      - som-, verschil-, product-, quotiënt- en kettingregel gebruiken
+   - C3 integraalrekening
+      - integraal opstellen 
+      - inhoud omwentelingslichaam
+
+- D Goniometrie
+   - exactenwaarde cirkel
+   - graden omzetten naar radialen en visa versa 
+   - tekenen
+   - functievoorschrift opstellen van getekende functie 
+   - vergelijkingen oplossen van de vorm:
+      - $sin(x) = c$
+      - $cos(x) = c$
+      - $tan(x) = c$
+      - $sin(f(x)) = sin(g(x))$
+      - $cos(f(x)) = cos(g(x))$
+      - $tan(f(x)) = tan(g(x))$
+      - $sin(f(x)) > sin(g(x))$
+      - $cos(f(x)) > cos(g(x))$
+      - $tan(f(x)) > tan(g(x))$
+      - $\sin{^2}(x) + \cos{^2}(x) = 1$ 
+      - ${{\sin(x)}\over{\cos(x)}} = \tan(x)$
+
+- E meetkunde
+   - E1 vaardigheden
+      - thalus: midden van schuine van driehoek is middenpunt circle met rechte hoek op de circle 
+      - pythagoras
+      - gelijkvormigheid
+      - soh, cah, toa 
+      - sinusregel
+      - cosinus regel 
+   - E2 algebraïsch methoden
+      - $R.C. \cdot R.C. = -1$ als de lijnen loodrecht zijn 
+      - de verschillende circlevergelijkingen
+      - hoek tussen 2 lijnen 
+      - circlevergelijkingen opstellen 
+      - snijpunten (ook circles)
+      - raaklijnen circles
+   - E3 vectoren
+      - $\vec{a} \cdot \vec{b} = a_x \cdot b_x + a_y \cdot b_y = |\vec{a}| \cdot |\vec{b}| \cdot \cos{\theta}$
+      - vector voorstelling lijn
+      - zwaartepunten
+
+TODO:
+- [ ] ongelijkheden
+- [X] calculus regels
+- [ ] kromme door toppen?
+- [X] limieten / asymptoten
+- [ ] sin = sin / cos = cos / tan = tan
+- [ ] hoek tussen lijnen 
+- [ ] vector voorstelling
+- [ ] zwaartepunten 
+- [ ] sinusregel
+- [ ] cosinusregel

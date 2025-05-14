@@ -1,2 +1,0 @@
-sin(a) = sin(b) -> a = b + k * 2Pi || A = Pi - b + k * 2Pi
-cos(a) = cos(b) -> a = b + K * 2Pi || A = -B + k * 2Pi
