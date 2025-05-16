@@ -1,42 +1,67 @@
 WAAL NOTATIE SYLLABUS:
-- organisch
-   - DNA
-   - lewisstructuur
+- [x] organisch
+   - [x] DNA
+   - [x] lewisstructuur
       - met lading, particieel en formeel en ongebonden electoren(paren)
-   - formele lading
-   - peptidebending 
-   - Asymetrisch koolstaf atoom 
-   - ion-dipool bending 
-   - vetten 
-   - sacharide 
-   - homogenereeks
-   - stereoisomeren (niet structuur isomeren
-   - aditiepolymerisatie (radicaal)
-   - reactie mechanisme
-      - radicaal (kan bendingen openklappen)
-      - ionair (nucleofiel & elektrofiel)
-   - formele lading 
-   - grensstructuren 
-   - primaire & secondaire structuren 
-   - condensatien polymerisatie (carbonzuur + alcohol/amine)
+   - [x] VSEPR
+      - geeft bindingshoeken aan
+   - [x] formele lading
+   - [x] peptidebending 
+      - carbonzuur + amine, O=C-N-H binding
+   - [x] Asymetrisch koolstaf atoom (4 diffrent connections)
+   - [x] ion-dipool binding 
+   - [x] vetten (binas)
+   - [x] sacharide 
+   - [x] homogenereeks
+   - [x] structuur isomeren
+      - zelfde molecuulformule, andere structuur 
+   - [x] stereoisomeren (niet structuur isomeren
+      - zelfde structuur, zelfde molecuulformule, andere ruimtelijke bouw
+      - onthou niet alle bindingen zijn star
+   - [x] aditiepolymerisatie (radicaal)
+   - [x] reactie mechanisme
+      - [x] radicaal (kan bendingen openklappen)
+      - [x] ionair (nucleofiel & elektrofiel)
+      - substitutie
+      - aditie
+   - [x] grensstructuren 
+      - meerdere lewisstructuren
+   - [x] primaire & secondaire structuren 
+      - eiwitten, primair is volgorde van de zuren, secondair is ruimtelijke bouw
+   - [x] condensatien polymerisatie (carbonzuur + alcohol/amine)
 
-- anorganisch
-   - neerslag
-   - hydratie
-   - watermantel
-   - zouthydraat
-   - rebolo / boe tabel 
-   - brandstoffen
-   - constante van faraday
-   - insteltijd
-   - nevenreactie
-   - evenwichen (beschouwing + verschuiving)
-   - zuur-base (ionisatiepercentage, sterk vs zwak)
-   - redox
-   - buffers 
+- [o] anorganisch
+   - [x] neerslag
+      - slecht opslobare zouten vormen uit de aanwezige ionen, hoe minder oplosbaar hoe meer er vormt
+   - [o] watermantel
+   - [x] zouthydraat
+      - zout \cdot $H_2O$ notatie
+      - water in zout kristalrooster
+      - product is juist harder maar kan ff duren voordat het water erintrekt, vandaar verhardingstijd
+   - [x] rebolo 
+      - rechts boven links onder voor concentratie breuk
+      - TOT DE MACHT HOEVEEL MOL JE HEBT (binas)
+   - [x] boe tabel
+      - begin, omzet, evenwicht, handig voor rekenen aan evenwichten die ontstaan vanuit 1 stof met 1 gegeven
+      - vul concentratie breuk met x
+      - los wiskunde op voor X, wees niet bang ABC-formule te gebruiken
+   - [x] brandstoffen
+   - [x] constante van faraday
+   - [o] insteltijd
+   - [x] nevenreactie
+      - als er meerdere reacties optreden naast de gewenste (aditie en je hoopt op halo-1-propaan maar er is ook halo-2-propaar)
+   - [x] evenwichen (beschouwing + verschuiving)
+   - [x] zuur-base (ionisatiepercentage, sterk vs zwak)
+   - [x] redox
+      - porn / norp
+      - O min R -0.3 tot 0.3 evenwicht, boven 0.3 is aflopend
+   - [x] buffers 
+      - bied weerstand aan veranderingen in pH met behulp van een zwake base/zuur en extra van het geconjugeerde base/zuur. zo kan het altijd wegreageren
 
-- analyse & processtechniek
-   - chromatografie
+- [x] analyse & processtechniek
+   - [x] chromatografie
+      - waterstof bruggen werken mee aan aanhechtings kracht
+      - soort-zoekt soort dus polair hecht aan polair, apolair hecht aan apolair
       - gas 
       - dunne laag
       - papier 
@@ -44,28 +69,28 @@ WAAL NOTATIE SYLLABUS:
       - kwalitatief / quantitatief
       - $f_r$ is relative flow
       - $T_r$ is retentietijd
-   - processtechniek
-      - blokschema's
-      - reactie warmtes 
+   - [x] processtechniek
+      - [x] blokschema's
+      - [x] reactie warmtes 
          - zoek vormings warmtes 
          - alles links van de pijl negatief want je ontvormt ze
 
-- groene chemie 
-   - 12 principes
-      - preventie
-      - atoomeconomie
-      - minder schadelijke productie methoden
-      - ontwikkeling van minder schadelijke stoffen 
-      - veiliger oplosmiddelen 
-      - energie efficient ontwerpen
-      - gebreuk van hernieuwbare stoffen
-      - reacties in weinig stappen
-      - katalysatoren (zijn goed)
-      - tussentijdse analyse met oog op ontreinigings preventie 
-      - minder risicovolle stoffen
-   - E-factor
-   - cradle-to-cradle
-      - werk in biologische cyclussen
+- [o] groene chemie 
+   - [o] 12 principes
+      - [ ] preventie
+      - [ ] atoomeconomie
+      - [ ] minder schadelijke productie methoden
+      - [ ] ontwikkeling van minder schadelijke stoffen 
+      - [ ] veiliger oplosmiddelen 
+      - [ ] energie efficient ontwerpen
+      - [ ] gebreuk van hernieuwbare stoffen
+      - [ ] reacties in weinig stappen
+      - [ ] katalysatoren (zijn goed)
+      - [ ] tussentijdse analyse met oog op ontreinigings preventie 
+      - [ ] minder risicovolle stoffen
+   - [x] E-factor
+   - [x] cradle-to-cradle
+      - [ ] werk in biologische cyclussen
 
 
 syllabus (CE):
