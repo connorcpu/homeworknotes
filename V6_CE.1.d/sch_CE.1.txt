@@ -1,0 +1,128 @@
+WAAL NOTATIE SYLLABUS:
+- organisch
+   - DNA
+   - lewisstructuur
+      - met lading, particieel en formeel en ongebonden electoren(paren)
+   - formele lading
+   - peptidebending 
+   - Asymetrisch koolstaf atoom 
+   - ion-dipool bending 
+   - vetten 
+   - sacharide 
+   - homogenereeks
+   - stereoisomeren (niet structuur isomeren
+   - aditiepolymerisatie (radicaal)
+   - reactie mechanisme
+      - radicaal (kan bendingen openklappen)
+      - ionair (nucleofiel & elektrofiel)
+   - formele lading 
+   - grensstructuren 
+   - primaire & secondaire structuren 
+   - condensatien polymerisatie (carbonzuur + alcohol/amine)
+
+- anorganisch
+   - neerslag
+   - hydratie
+   - watermantel
+   - zouthydraat
+   - rebolo / boe tabel 
+   - brandstoffen
+   - constante van faraday
+   - insteltijd
+   - nevenreactie
+   - evenwichen (beschouwing + verschuiving)
+   - zuur-base (ionisatiepercentage, sterk vs zwak)
+   - redox
+   - buffers 
+
+- analyse & processtechniek
+   - chromatografie
+      - gas 
+      - dunne laag
+      - papier 
+      - polair / apolair 
+      - kwalitatief / quantitatief
+      - $f_r$ is relative flow
+      - $T_r$ is retentietijd
+   - processtechniek
+      - blokschema's
+      - reactie warmtes 
+         - zoek vormings warmtes 
+         - alles links van de pijl negatief want je ontvormt ze
+
+- groene chemie 
+   - 12 principes
+      - preventie
+      - atoomeconomie
+      - minder schadelijke productie methoden
+      - ontwikkeling van minder schadelijke stoffen 
+      - veiliger oplosmiddelen 
+      - energie efficient ontwerpen
+      - gebreuk van hernieuwbare stoffen
+      - reacties in weinig stappen
+      - katalysatoren (zijn goed)
+      - tussentijdse analyse met oog op ontreinigings preventie 
+      - minder risicovolle stoffen
+   - E-factor
+   - cradle-to-cradle
+      - werk in biologische cyclussen
+
+
+syllabus (CE):
+
+- DOMEIN A: vaardigheden
+- DOMEIN B: stoffen en materialen in de chemie 
+   - M1-M4
+- DOMEIN C: chemische processen en behoudswetten
+   - R1
+   - R&A3
+   - chemisch rekenen 
+   - R2
+   - R4
+   - energieberekeningen
+- DOMEIN D: ontwikkelen van chemische kennis
+   - chemische vakmethodes 
+   - chemische synthese
+- DOMEIN E: innovatie en chemisch onderzoek
+   - chemisch onderzoek
+   - selectiviteit en specificiteit
+- DOMEIN F: industrieële processen
+   - T1
+   - T2
+   - T5
+- DOMEIN G: mattschappij chemie en technologie
+   - chemie van het leven
+   - milieueffectrapportage 
+   - energie en industrie
+
+- sfeer 1: materie
+   - M1: deetjes moddellen
+   - M2: eigenschappen en moddellen
+   - M3: bindingen en eigenschappen
+   - M4: bindingen, structuren en eigenschappen
+   - M5: macroscopische eigenschappen
+   - M6: redeneren in termen van structuur-eigenschappen
+
+- sfeer 2: reacties 
+   - R1: chemische processen
+   - R2: reactiekinetiek
+   - R3: reactiesnelheid en katalyse
+   - R4: chemisch evenwicht
+   - R5: energie
+
+- sfeer 3: (chemisch) rekenen & analyse
+   - R&A1: grootheden en relaties
+   - R&A2: scheiding en analyse 
+   - R&A3: behoudswetten en kringlopen
+
+- sfeer 4: technologie & duurzaamheid
+   - T1: industriee processen
+   - T2: groene chemie 
+   - T3: duurzame energieproductie 
+   - T4: milieu en gezondheid
+   - T5: energieomzettingen
+   - T6: duurzaamheid
+
+- sfeer 5: chemie van het leven
+   - L1: structuur en functie
+   - L2: reactiviteit en lelectiviteit
